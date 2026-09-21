@@ -1,0 +1,91 @@
+{
+    "model": "gemma3:4b",
+    "urun": {
+        "content_id": "984233975",
+        "url": "https://www.trendyol.com/samsung/galaxy-s25-fe-5g-8-256-gb-akilli-telefon-lacivert-p-984233975?boutiqueId=689770&merchantId=968"
+    },
+    "trendyol_ai_ozet": "• Birçok kullanıcı, telefonun kamera özelliklerinden, özellikle makro çekimlerdeki netlikten ve yapay zeka özelliklerinden memnun kalmıştır.\n• Telefonun fiyat-performans oranı, birçok kullanıcı tarafından olumlu değerlendirilmiş ve tavsiye edilmiştir.\n• Bazı kullanıcılar, telefonun tasarımını, özellikle de renk seçeneklerini ve premium hissini beğenmiştir.\n• Telefonun genel performansı, hızı ve kullanım kolaylığı birçok kullanıcı tarafından yeterli ve başarılı bulunmuştur.\n• Şarj süresi ve ısınma sorunları, bazı kullanıcılar tarafından olumsuz olarak belirtilmiştir.",
+    "istatistikler": {
+        "yorum_sayisi": 85,
+        "trendyol_toplam_yorum": 85,
+        "trendyol_toplam_sayfa": 17,
+        "cekilen_yorum": 85,
+        "ortalama_puan": 4.47,
+        "yildiz_dagilimi": {
+            "5": {
+                "adet": 65,
+                "yuzde": 76.47
+            },
+            "4": {
+                "adet": 9,
+                "yuzde": 10.59
+            },
+            "3": {
+                "adet": 4,
+                "yuzde": 4.71
+            },
+            "2": {
+                "adet": 0,
+                "yuzde": 0.0
+            },
+            "1": {
+                "adet": 7,
+                "yuzde": 8.24
+            }
+        }
+    },
+    "tahmini_toplam_token": 2113,
+    "context_size": 4096,
+    "max_input_tokens": 500,
+    "chunk_sayisi": 5,
+    "aspect_analizi": {
+        "Tasarım": {
+            "olumlu": 15,
+            "olumsuz": 3,
+            "notr": 0,
+            "toplam": 18
+        },
+        "Kamera": {
+            "olumlu": 14,
+            "olumsuz": 1,
+            "notr": 1,
+            "toplam": 16
+        },
+        "Performans": {
+            "olumlu": 9,
+            "olumsuz": 4,
+            "notr": 2,
+            "toplam": 15
+        },
+        "Batarya": {
+            "olumlu": 8,
+            "olumsuz": 7,
+            "notr": 0,
+            "toplam": 15
+        },
+        "Fiyat": {
+            "olumlu": 6,
+            "olumsuz": 1,
+            "notr": 0,
+            "toplam": 7
+        },
+        "Ekran": {
+            "olumlu": 5,
+            "olumsuz": 0,
+            "notr": 0,
+            "toplam": 5
+        },
+        "Isınma": {
+            "olumlu": 0,
+            "olumsuz": 3,
+            "notr": 0,
+            "toplam": 3
+        }
+    },
+    "detayli_ai_ozet": "- Tasarım ve ekran kalitesi konusunda bazı kullanıcılar olumlu geri bildirim verirken, ısıtma performansı ile ilgili sorun yaşayan az sayıda kullanıcı tespit edilmiştir.\n- Kamera performansı genel olarak beğenilmiş olsa da, batarya ömrüyle ilgili endişeler bazı kullanıcılar tarafından dile getirilmiştir.\n- Ürünün performansı çoğu kullanıcı tarafından tatmin edici bulunmakla birlikte, performans konusunda olumsuz görüşler de mevcuttur.\n- Fiyatı, ürünün genel kalitesine göre bazı kullanıcılar tarafından yüksek olarak değerlendirilmiş, ancak bu konuda net bir fikir birliği sağlanamamıştır.\n- Tasarım ve kamera özellikleri beğenilirken, batarya performansı ile ilgili yaşanan sorunlar dikkatli olunması gereken bir konu olarak öne çıkmaktadır.",
+    "performans": {
+        "grup_sayisi": 5,
+        "final_sure": 16.69,
+        "toplam_sure": 506.6
+    }
+}

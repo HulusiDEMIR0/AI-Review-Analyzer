@@ -1,0 +1,173 @@
+TEST 1/15
+SORU: Samsung FE 25'in ekranı nasıl?
+
+CEVAP:
+Samsung Galaxy S25 FE'nin ekranı 6.7 İnçlik Dynamic AMOLED ekran sunar ve 1080x2340 (FHD+) çözünürlükte 385 PPI piksel yoğunluğunda. Ekranın yenileme hızı 120 Hz'dir, bu, ekranın akıcı hareket sağlayarak kullanıcının deneyimini iyileştirebilir. Ekranın parlaklığı 1900 cd/m² (nit) olup, çerçevesiz tasarımı ve Gorilla Glass Victus+ dayanıklılığı ile korunmuş durumda kalabilir. Ekranın oranı 19.5:9 ve alanı 109.94 cm²'dir. Ekranın %88.98 oranında gövde kaplaması, daha zengin bir ekran deneyimi sunar. Ekranın özelliklerinden memnuniyet duyulan noktalar arasında çizilmeye dirençli cam, HDR, HDR10 ve HDR10+ destekleme, multi touch ve sürekli açık ekran bulunur. Genel olarak, kullanıcılar ekranın kalitesini ve performansını olumlu değerlendirmiştir.
+Final LLM Süresi: 76.0420 saniye
+
+TEST 2/15
+SORU: Samsung FE 25'in bataryası nasıl?
+
+CEVAP:
+Samsung Galaxy S25 FE'nin bataryası genel olarak iyi bir performans göstermektedir. 4900 mAh kapasitesine sahip bir lithium ion batarya ile, video oynatma süresi 28 saat olarak belirtilmiştir. Hızlı şarj özelliği de mevcut ve 45W maksimum güç ile şarj edilebilir. 30 dakikada %65 dolum süresi de belirtilmiştir. Ancak bazı kullanıcılar şarj süresi ve ısınma konusunda olumsuz yorumlar vermiştir. Genel olarak, 45W şarj aleti ile uyumlu kullanımlarda 2,5 gün boyunca rahat bir kullanım sağlayabilmektedir.
+Final LLM Süresi: 57.8780 saniye
+
+TEST 3/15
+SORU: iPhone 17'nin kamerası nasıl?
+
+CEVAP:
+iPhone 17'nin kamera özellikleri, kullanıcı yorumlarına göre oldukça güçlü ve versatile. Arka kamera, 48 MP çözünürlükte ve OIS ile desteklenen bir 1.0μm (2.0μm) piksel boyutunda, geniş bir diyafram (F1.6) ve Phase Detect Auto-Focus (PDAF) ile yüksek kaliteli fotoğraflar çekmenize olanak tanır. Ayrıca, Portre Modu, Seri Çekim (Burst) Modu ve Time-lapse gibi çeşitli kamera özelliklerini destekler.
+
+Kullanıcılar, kamera performansının özellikle görüntülü konuşmalarda genişleme özelliğiyle ve genel fotoğraf kalitesiyle övgüyle karşılanmış olup, pro modellerle arasındaki farkın minimal olduğunu belirtmişlerdir. Ayrıca, kamera kilitlenme ve zamanlayıcı gibi bazı özelliklerin bazı durumlarda sorunlar yaratabileceğini de belirtmişlerdir.
+
+Genel olarak, iPhone 17'in kamera performansı, özellikle profesyonel kullanıma gerek yoksa veya 17 Pro ile arasındaki farkın minimal olduğunu düşünüyorsanız, 17 modelini tercih etmeniz mantıklı olabilir.
+Final LLM Süresi: 81.1271 saniye
+
+TEST 4/15
+SORU: iPhone 17'nin tasarımı nasıl?
+
+CEVAP:
+iPhone 17'nin tasarımına dair genel bir incelemeye göre, rengi görsellerde daha da güzel görünüyor ve arka kısmının mat bir dokusu var. Lensler de göründüğünden daha büyük ve kamera performansı, özellikle görüntülü konuşmalarda genişleme özelliği ile övgü almış. Ekran, özellikle güneş ışığı altında mükemmel bir parlaklık sunuyor. Genel olarak, iPhone 17, basic model olmasına rağmen premium bir cihaz olarak tasarımlı ve profesyonel amaçlı kullanımlar için de yeterli özelliklere sahip.
+Final LLM Süresi: 49.7272 saniye
+
+TEST 5/15
+SORU: Samsung FE 25'in temel donanımı nasıl?
+
+CEVAP:
+Samsung Galaxy S25 FE'nin temel donanımı şunlardır:
+
+- **Yonga Seti (Chipset):** Samsung Exynos 2400
+- **CPU Frekansı:** 3.2 GHz
+- **CPU Çekirdeği:** 10 Çekirdek
+- **Ana İşlemci (CPU):** 1x 3.2 GHz ARM Cortex-X4, 2x 2.9 GHz ARM Cortex-A720, 3x 2.6 GHz ARM Cortex-A720, 4x 1.95 GHz ARM Cortex-A520
+- **İşlemci Mimarisi:** 64-bit
+- **Grafik İşlemcisi (GPU):** Samsung Xclipse 940
+- **CPU Üretim Teknolojisi:** 4 nm
+- **AnTuTu Puanı (v10):** 1.810.600 Puan
+- **AnTuTu Puanı (v11):** 2.238.000 Puan
+- **Geekbench 6 (Single-core):** 2.155 Puan
+- **Geekbench 6 (Multi-core):** 7.005 Puan
+- **Bellek (RAM):** 8 GB
+- **Dahili Depolama:** 256 GB (UFS 4.0)
+- **Hafıza Kartı Desteği:** Yok
+- **Diğer Hafıza Seçenekleri:** 128/256/512GB Depolama seçeneği var
+
+Bu özellikler, kullanıcıların genel olumlu yorumlarına dayanarak belirlenmiştir. Özellikle kamera özelliklerinden, özellikle makro çekimlerdeki netlikten ve yapay zeka özelliklerinden memnun kalmış olanlar bulunmaktadır. Telefonun fiyat-performans oranı, birçok kullanıcı tarafından olumlu değerlendirilmiş ve tavsiye edilmiştir.
+Final LLM Süresi: 135.4544 saniye
+
+TEST 6/15
+SORU: Samsung FE 25'in ekran yenileme hızı kaç Hz?
+
+CEVAP:
+Samsung Galaxy S25 FE'nin ekran yenileme hızı 120 Hz'dır.
+Final LLM Süresi: 24.3394 saniye
+
+TEST 7/15
+SORU: Samsung FE 25'in dahili depolama seçenekleri neler?
+
+CEVAP:
+Samsung Galaxy S25 FE'in dahili depolama seçenekleri şu an mevcut bilgiler doğrultusunda belirtilmemiştir. Ürünün teknik özelliklerinde veya kullanıcı yorumlarında dahili depolama seçenekleri hakkında herhangi bir bilgi bulunmamaktadır.
+Final LLM Süresi: 35.1116 saniye
+
+
+TEST 8/15
+SORU: iPhone 17'nin kamera çözünürlüğü kaç MP?
+
+CEVAP:
+iPhone 17'nin arka kamera çözünürlüğü 48 MP'dir.
+Final LLM Süresi: 42.1086 saniye
+
+TEST 9/15
+SORU: iPhone 17'nin optik görüntü sabitleyicisi var mı?
+
+CEVAP:
+iPhone 17'nin optik görüntü sabitleyici (OIS) özelliği var. Bu özellik, kameranın görsel kalitesini ve çekilen fotoğrafların niteliğini artırarak, özellikle hareketli durumlarda ve zayıf ışıkta çekilen fotoğrafların kalitesini iyileştirmeye yardımcı olur.
+Final LLM Süresi: 35.4591 saniye
+
+TEST 10/15
+SORU: Samsung FE 25'in 3x optik zoom özelliği var mı?
+
+CEVAP:
+Samsung Galaxy S25 FE'nin 3x optik zoom özelliği bulunmamaktadır. Üründeki en yakın optik zoom özelliği 2x diyafram açıklığında bulunuyor. Ancak, üçüncü arka kamera ile 32° açılı ve OIS ile desteklenen 30x dijital zoom özelliği bulunmaktadır.
+Final LLM Süresi: 34.4918 saniye
+
+TEST 11/15
+SORU: iPhone 17'nin kamerası mı daha iyi Samsung FE 25'in kamerası mı?
+
+CEVAP:
+iPhone 17'in ve Samsung Galaxy S25 FE'nin kameraları konusunda karşılaştıralım:
+
+iPhone 17:
+- 48 MP arka kamera
+- 1.0μm (2.0μm) piksel
+- F1.6 diyafram
+- 2 x kayıpsız yakınlaştırma
+- 2160p (Ultra HD) 4K video kaydı
+- DxOMark puanı: 157
+
+Samsung Galaxy S25 FE:
+- 50 MP arka kamera
+- 84° açılı
+- F1.8 diyafram
+- 2 x kayıpsız yakınlaştırma
+- 4320p (Ultra HD) 8K video kaydı
+- DxOMark puanı: 118
+
+Genel olarak, Samsung Galaxy S25 FE'nin kamera çözünürlüğü ve video kaydı özellikleri daha iyi. Ancak, DxOMark puanı açısından iPhone 17 daha üst seviyede. Her iki telefon da kamera özellikleri ile memnuniyet veriyor, ancak Samsung Galaxy S25 FE'nin daha yüksek çözünürlük ve 8K video kaydı özellikleri sayesinde biraz daha iyi bir kameralık sunuyor.
+Final LLM Süresi: 92.6629 saniye
+
+TEST 12/15
+SORU: Samsung FE 25 mi iPhone 17 mi daha uzun pil ömrü sunuyor?
+
+CEVAP:
+Samsung Galaxy S25 FE ve iPhone 17'de pil ömrü konusunda:
+
+Samsung Galaxy S25 FE, 4900 mAh kapasiteli bir pil ile gelir ve 28 saat video oynatma süresine sahiptir. Hızlı şarj özelliği 45W ile 30 dakikada %65 dolum sağlar.
+
+iPhone 17, 3692 mAh kapasiteli bir pil ile gelir ve 27 saat video oynatma süresine sahiptir. Hızlı şarj özelliği 40W ile 20 dakikada %50 dolum sağlar.
+
+Genel olarak, Samsung Galaxy S25 FE'nin daha büyük bir pil kapasitesi ve daha uzun video oynatma süresi ile pil ömrü konusunda avantajlı görünmektedir. Ancak, iPhone 17'in 40W hızlı şarj özelliği, Samsung Galaxy S25 FE'nin 45W hızlı şarj özelliği ile karşılaştırıldığında bir avantaj sunmaktadır. Her iki telefon da hızlı şarj özellikleri ile kullanıcılara daha fazla uygunluk sunmaktadır.
+Final LLM Süresi: 85.4523 saniye
+
+TEST 13/15
+SORU: iPhone 17 mi Samsung FE 25 mi daha iyi ekrana sahip?
+
+CEVAP:
+iPhone 17 ve Samsung Galaxy S25 FE'nin ekranları konusunda karşılaştırarak, iPhone 17'in ekranı özellikle güneş ışığı altında 3000 nit'in hakkını vererek mükemmel bir parlaklık sunuyor. Ekranın 120 Hz yenileme hızı, hızlı ve akıcı görüntü sunmayı sağlıyor. Ekranın %90.04 oranında gövdeye kapladığı, çerçevesiz tasarım da ekranın geniş ve açınlığını artırıyor.
+
+Samsung Galaxy S25 FE'nin ekranı 1900 cd/m² maksimum parlaklık sunarak de oldukça parlak. Ekranın %88.98 oranında gövdeye kapladığı, çerçevesiz tasarım da ekranın geniş ve açınlığını artırıyor. Ekranın 120 Hz yenileme hızı, hızlı ve akıcı görüntü sunmayı sağlıyor.
+
+Her iki telefonun da 120 Hz yenileme hızı ve 16 milyon renk desteği var. Ancak iPhone 17'in ekranı, özellikle güneş ışığı altında daha parlak ve parlaklık seviyeleri daha yüksek. Ekranın %90.04 oranında gövdeye kapladığı, Samsung Galaxy S25 FE'nin %88.98 oranında gövdeye kapladığı ekran oranları da iPhone 17'in ekranının daha geniş ve açınlığını artırıyor.
+
+Sonuç olarak, iPhone 17'in ekranı, özellikle güneş ışığı altında daha parlak ve parlaklık seviyeleri daha yüksek olduğu için daha iyi bir ekran sunuyor. Ancak Samsung Galaxy S25 FE'nin ekranı da oldukça parlak ve geniş bir ekran sunuyor.
+Final LLM Süresi: 115.4498 saniye
+
+
+TEST 14/15
+SORU: Samsung FE 25 mi iPhone 17 mi daha iyi performans sunuyor?
+
+CEVAP:
+Samsung Galaxy S25 FE ve iPhone 17 arasındaki performans karşılaştırması:
+
+Samsung Galaxy S25 FE, daha büyük bir batarya kapasitesi (4900 mAh) ve daha uzun video oynatma süresi (28 saat) sunar. Hızlı şarj özelliği (45 W) ile hızlı şarj süresi vardır. Kablosuz şarj özelliği de mevcut.
+
+iPhone 17, daha düşük bir batarya kapasitesi (3692 mAh) ve video oynatma süresi (27 saat) ile biraz daha az kapasitedir. Hızlı şarj özelliği (40 W) ile de hızlı şarj sağlar ve MagSafe ile kablosuz şarj yapabilir.
+
+Kullanıcı yorumlarına göre, S25 FE, özellikle kamera performansı ve yapay zeka özellikleri konusunda olumlu yorumlar alıyor. Fiyat-performans dengesine de olumlu bir bakış açısı sunuyor.
+
+iPhone 17, rengi ve estetik tasarımına, özellikle kamera performansına ve genel kullanıma olumlu yorumlar alıyor. Fiyat-performans dengesine de olumlu bir bakış açısı sunuyor.
+
+Sonuç olarak, S25 FE daha büyük batarya kapasitesi ve daha düşük fiyat sunar. iPhone 17 ise daha iyi kamera performansı ve estetik tasarımla övülüyor. Her iki telefon da iyi performans sunuyor, ancak tercih edilecek ürün, kullanıcının ihtiyaçlarına ve bütçesine bağlı olacaktır.
+Final LLM Süresi: 121.5461 saniye
+
+TEST 15/15
+SORU: iPhone 17 ile Samsung FE 25 arasında hangisinin tasarımı daha iyi?
+
+CEVAP:
+iPhone 17 ile Samsung Galaxy S25 FE arasında tasarım konusunda, her iki telefon da cam kapak ve alüminyum çerçeve kullanarak premium bir his sunar. Ancak kullanıcı yorumlarına göre, iPhone 17'in tasarımının daha detaylı ve premium bir his suntuğu vardır. Özellikle rengi ve mat dokusu, lenslerin büyüklüğü ve genel dokunma hissi konusunda olumlu yorumlar bulunmaktadır.
+
+Diğer yandan, Samsung Galaxy S25 FE'nin tasarımının da iyi bir şekilde değerlendirildiği görülmektedir. Özellikle renk seçenekleri ve genel tasarım konusunda olumlu yorumlar bulunmaktadır.
+
+Sonuç olarak, iPhone 17'in tasarımının daha detaylı ve premium bir his suntuğu vardır, ancak Samsung Galaxy S25 FE'nin tasarımının da iyi bir şekilde değerlendirildiği gözlemlenmiştir.
+Final LLM Süresi: 62.5430 saniye
+

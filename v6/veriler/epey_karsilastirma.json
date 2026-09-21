@@ -1,0 +1,352 @@
+{
+    "kaynak": "Epey",
+    "url": "https://www.epey.com/akilli-telefonlar/karsilastir/1019620-1023347/samsung-galaxy-s25-fe_apple-iphone-17/",
+    "urunler": [
+        {
+            "kaynak": "Epey",
+            "urun_adi": "Samsung Galaxy S25 FE",
+            "fiyat": "37.477,50 TL",
+            "karsilastirma_url": "https://www.epey.com/akilli-telefonlar/karsilastir/1019620-1023347/samsung-galaxy-s25-fe_apple-iphone-17/",
+            "ozellikler": {
+                "TEMEL ÖZELLİKLER": {
+                    "Ekran Boyutu": "6.7 İnç",
+                    "Ekran / Gövde Oranı": "88.98 %",
+                    "Ağırlık": "190 Gram",
+                    "Kamera Çözünürlüğü": "50 MP",
+                    "Dahili Depolama": "256 GB",
+                    "Bellek (RAM)": "8 GB",
+                    "Yonga Seti (Chipset)": "Samsung Exynos 2400",
+                    "Ekran Çözünürlüğü": "1080x2340 (FHD+) Piksel",
+                    "Video Kayıt Çözünürlüğü": "4320p (Ultra HD) 8K",
+                    "Batarya Kapasitesi (Tipik)": "4900 mAh",
+                    "SAR Değeri 10g (Baş)": "0.544 W/kg",
+                    "İşletim Sistemi Versiyonu": "Android 16 (B)",
+                    "TÜM ÖZELLİKLER": ""
+                },
+                "EKRAN": {
+                    "Ekran Boyutu": "6.7 İnç",
+                    "Ekran Teknolojisi": "Dynamic AMOLED",
+                    "Ekran Çözünürlüğü": "1080x2340 (FHD+) Piksel",
+                    "Ekran Çözünürlüğü Standardı": "FHD+",
+                    "Piksel Yoğunluğu": "385 PPI",
+                    "Ekran Yenileme Hızı": "120 Hz",
+                    "Ekran Oranı (Aspect Ratio)": "19.5:9",
+                    "Ekran Alanı": "109.94 cm²",
+                    "Ekran Özellikleri": "1900 cd/m² (nit) Parlaklık (Maks.)\nÇerçevesiz Tasarım\nÇizilmeye Dirençli Cam\nDynamic AMOLED 2X\nEkran İçinde Ön Kamera\nHDR\nHDR10\nHDR10+\nMulti Touch\nSürekli Açık Ekran (Always-on Display)",
+                    "Ekran Dayanıklılığı": "Corning Gorilla Glass Victus+",
+                    "Renk Sayısı": "16 Milyon",
+                    "Ekran / Gövde Oranı": "88.98 %"
+                },
+                "BATARYA": {
+                    "Batarya Kapasitesi (Tipik)": "4900 mAh",
+                    "Video Oynatma": "28 Saat",
+                    "Şarj": "USB Type-C",
+                    "Batarya Teknolojisi": "Lithium Ion (Li-Ion)",
+                    "Hızlı Şarj": "Var",
+                    "Hızlı Şarj Gücü (Maks.)": "45 W",
+                    "Hızlı Şarj Özellikleri": "Hızlı Şarj (45W)",
+                    "Kablosuz Şarj": "Var",
+                    "Kablosuz Şarj Özellikleri": "Kablosuz Hızlı Şarj\nKablosuz Hızlı Şarj (15W)",
+                    "Değişir Batarya": "Yok",
+                    "Batarya Özellikleri": "30 Dakikada %65 Dolum"
+                },
+                "KAMERA": {
+                    "Kamera Çözünürlüğü": "50 MP",
+                    "Optik Görüntü Sabitleyici (OIS)": "Var",
+                    "Kamera Özellikleri": "84° Açılı\nDahili QR Kod Okuyucu\nHDR\nOtomatik Odaklama\nPanorama\nPerde Hızı (Shutter Speed) Kontrolü\nPerde hızı (Shutter Speed): 30 sn\nPhase Detect Auto-Focus - PDAF (Dual Pixel)\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nRAW Kayıt Yapabilme\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+                    "Flaş": "LED",
+                    "Diyafram Açıklığı": "F1.8",
+                    "Kayıpsız Yakınlaştırma": "2 x",
+                    "Video Kayıt Çözünürlüğü": "4320p (Ultra HD) 8K",
+                    "Video FPS Değeri": "30 fps",
+                    "Video Kayıt Özellikleri": "10-bit HDR\nDijital görüntü sabitleyici (EIS)\nHDR\nHDR10+\nOdak Takibi\nPortre Modu (Bokeh)\nTime-lapse (Hyperlapse)\nYavaş Çekim Video Kayıt (Slow motion video)",
+                    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n4320p @ 24fps\n4320p @ 30fps\n1080p @ 120fps",
+                    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps\n2160p @ 120fps",
+                    "İkinci Arka Kamera": "Var",
+                    "İkinci Arka Kamera Çözünürlüğü": "12 MP",
+                    "İkinci Arka Kamera Diyafram": "F2.2",
+                    "İkinci Arka Kamera Özellikleri": "Ekstra Geniş Açı\nEkstra Geniş Açı (123°)",
+                    "Üçüncü Arka Kamera": "Var",
+                    "Üçüncü Arka Kamera Çözünürlüğü": "8 MP",
+                    "Üçüncü Arka Kamera Diyafram": "F2.4",
+                    "Üçüncü Arka Kamera Özellikleri": "30x Dijital Zoom\n32˚ Açılı\nOptik Görüntü Sabitleyici (OIS)\nOptik Zoom (3x)\nTelephoto",
+                    "Ön Kamera Çözünürlüğü": "12 MP",
+                    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+                    "Ön Kamera FPS Değeri": "60 fps",
+                    "Ön Kamera Diyafram Açıklığı": "F2.2",
+                    "Ön Kamera Özellikleri": "80° Açılı\nDijital görüntü sabitleyici (EIS)\nGesture Shot\nHDR\nPortre Modu\nSanal Flaş\nSesle Komut\nTime-lapse (Hyperlapse)\nVideo Kayıtta Portre Modu\nYapay Zeka (AI) İyileştirme\nYavaş Çekim (Slow Motion) Video Kayıt\nZamanlayıcı (self-timer)",
+                    "DxOMark Camera (v6)": "118 Puan"
+                },
+                "TEMEL DONANIM": {
+                    "Yonga Seti (Chipset)": "Samsung Exynos 2400",
+                    "CPU Frekansı": "3.2 GHz",
+                    "CPU Çekirdeği": "10 Çekirdek",
+                    "Ana İşlemci (CPU)": "1x 3.2 GHz ARM Cortex-X4",
+                    "1. Yardımcı İşlemci": "2x 2.9 GHz ARM Cortex-A720\n3x 2.6 GHz ARM Cortex-A720",
+                    "2. Yardımcı İşlemci": "4x 1.95 GHz ARM Cortex-A520",
+                    "İşlemci Mimarisi": "64-bit",
+                    "Grafik İşlemcisi (GPU)": "Samsung Xclipse 940",
+                    "CPU Üretim Teknolojisi": "4 nm",
+                    "AnTuTu Puanı (v10)": "1.810.600 Puan",
+                    "AnTuTu Puanı (v11)": "2.238.000 Puan",
+                    "Geekbench 6 (Single-core)": "2.155 Puan",
+                    "Geekbench 6 (Multi-core)": "7.005 Puan",
+                    "Bellek (RAM)": "8 GB",
+                    "Dahili Depolama": "256 GB",
+                    "Dahili Depolama Biçimi": "UFS 4.0",
+                    "Hafıza Kartı Desteği": "Yok",
+                    "Diğer Hafıza Seçenekleri": "128/256/512GB Depolama seçeneği var"
+                },
+                "TASARIM": {
+                    "Boy": "161.3 mm",
+                    "En": "76.6 mm",
+                    "Kalınlık": "7.4 mm",
+                    "Ağırlık": "190 Gram",
+                    "Renk Seçenekleri": "Beyaz\nLacivert\nMavi\nSiyah",
+                    "Gövde Malzemesi (Kapak)": "Cam",
+                    "Gövde Malzemesi (Çerçeve)": "Alüminyum"
+                },
+                "AĞ BAĞLANTILARI": {
+                    "2G": "Var",
+                    "2G Frekansları": "1800 MHz\n1900 MHz\n850 MHz\n900 MHz",
+                    "3G": "Var",
+                    "3G Frekansları": "1900 (band 2) MHz\n2100 (band 1) MHz\n850 (band 5) MHz\n900 (band 8) MHz",
+                    "4G": "Var",
+                    "4G Frekansları": "1500 (band 32) MHz\n1700 (band 66) MHz\n1700/2100 (band 4) MHz\n1800 (band 3) MHz\n1900 (band 2) MHz\n1900 (band 25) MHz\n2100 (band 1) MHz\n2600 (band 7) MHz\n700 (band 12) MHz\n700 (band 13) MHz\n700 (band 17) MHz\n700 (band 28) MHz\n800 (band 18) MHz\n800 (band 19) MHz\n800 (band 20) MHz\n850 (band 26) MHz\n850 (band 5) MHz\n900 (band 8) MHz",
+                    "4G Özellikleri": "VoLTE (Voice over LTE) Desteği",
+                    "4.5G Desteği": "Var",
+                    "5G": "Var"
+                },
+                "İŞLETİM SİSTEMİ": {
+                    "İşletim Sistemi": "Android",
+                    "İşletim Sistemi Versiyonu": "Android 16 (B)",
+                    "Kullanıcı Arayüzü": "Samsung One UI",
+                    "Lansman Arayüz Versiyonu": "Samsung One UI 8"
+                },
+                "KABLOSUZ BAĞLANTILAR": {
+                    "Wi-Fi Kanalları": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax)",
+                    "Wi-Fi Özellikleri": "1024QAM\n3 Band (2.4/5/6GHz)\nDual-Band (5GHz)\nHE160\nMIMO\nVoWiFi (Wi-Fi Araması)\nWi-Fi Direct\nWi-Fi Hotspot",
+                    "NFC": "Var",
+                    "Bluetooth Versiyonu": "5.4",
+                    "Kızılötesi": "Yok",
+                    "Navigasyon Özellikleri": "BDS\nGalileo\nGLONASS\nGPS\nNavIC\nQZSS"
+                },
+                "ÇOKLU ORTAM": {
+                    "Radyo": "Yok",
+                    "Hoparlör Özellikleri": "Çift Hoparlör\nStereo",
+                    "Ses Çıkışı": "USB Type-C"
+                },
+                "ÖZELLİKLER": {
+                    "Suya Dayanıklılık": "Var",
+                    "Suya Dayanıklılık Seviyesi": "IPX8",
+                    "Toza Dayanıklılık": "Var",
+                    "Toza Dayanıklılık Seviyesi": "IP6X",
+                    "Görüntülü Konuşma (Uygulama)": "Var",
+                    "Sensörler": "Barometre\nHall Sensörü\nİvmeölçer\nJiroskop\nOrtam Işığı Sensörü\nPusula\nYakınlık Sensörü",
+                    "Parmak izi Okuyucu": "Var",
+                    "Parmak izi Okuyucu Özellikleri": "Ekran İçinde",
+                    "Bildirim Işığı (LED)": "Yok",
+                    "SAR Değeri 10g (Baş)": "0.544 W/kg",
+                    "SAR Değeri 10g (Vücut)": "1.575 W/kg",
+                    "Servis ve Uygulamalar": "7 Yıl Güncelleme Garantisi\n7 Yıl Güvenlik Güncellemesi Garantisi\nÇocuk Modu\nDolby Atmos\nEkran Yansıtma (Screen Mirroring)\nEkrana Çift Dokunarak Açma (KnockON)\nKablosuz Şarj ile Başka Cihazları Şarj Edebilme\nKaranlık Mod (Dark Mode)\nKolay Arayüz (Easy Mode)\nSamsung DeX\nSamsung KNOX\nSanal RAM Artırma (8GB)\nTek Elde Kullanım Modu\nVapor-Chamber Soğutma\nYüz Tanımlama",
+                    "Kutu İçeriği": "SIM Çıkartma İğnesi\nUSB Kablosu (Type-C'den Type-C'ye)"
+                },
+                "DİĞER BAĞLANTILAR": {
+                    "USB Versiyonu": "USB 3.2 Gen 1 (USB 3.0)",
+                    "USB Bağlantı Tipi": "USB Type-C",
+                    "USB Özellikleri": "DisplayPort\nDisplayPort (4K@60fps)\nUSB On-the-go (OTG)",
+                    "Hat Sayısı": "Çift Hat",
+                    "SIM": "eSIM\nNano-SIM (4FF)"
+                },
+                "AB ÜRÜN KAYIT ve ENERJİ ETİKETİ": {
+                    "Enerji Sınıfı": "B",
+                    "Şarj Sonrası Pil Süresi": "42 saat 37 dakika",
+                    "Düşme Direnci Sınıfı": "A",
+                    "Onarılabilirlik Sınıfı": "C",
+                    "Şarj Döngü Sayısı (AB)": "2000 Döngü",
+                    "Suya ya da Toza Direnç Sınıfı": "IP68"
+                },
+                "TEMEL BİLGİLER": {
+                    "Çıkış Yılı": "2025",
+                    "Duyurulma Tarihi": "2025, Eylül",
+                    "Seri": "Samsung Galaxy S",
+                    "Alt Seri": "Samsung Galaxy S25",
+                    "Sadece Farkları Göster": "Karşılaştırma Yorumları (0 yorum)\nYorumları Sırala"
+                }
+            }
+        },
+        {
+            "kaynak": "Epey",
+            "urun_adi": "Apple iPhone 17",
+            "fiyat": "76.999,00 TL",
+            "karsilastirma_url": "https://www.epey.com/akilli-telefonlar/karsilastir/1019620-1023347/samsung-galaxy-s25-fe_apple-iphone-17/",
+            "ozellikler": {
+                "TEMEL ÖZELLİKLER": {
+                    "Ekran Boyutu": "6.3 İnç",
+                    "Ekran / Gövde Oranı": "90.04 %",
+                    "Ağırlık": "177 Gram",
+                    "Kamera Çözünürlüğü": "48 MP",
+                    "Dahili Depolama": "256 GB",
+                    "Bellek (RAM)": "8 GB",
+                    "Yonga Seti (Chipset)": "Apple A19",
+                    "Ekran Çözünürlüğü": "1206x2622 (FHD+) Piksel",
+                    "Video Kayıt Çözünürlüğü": "2160p (Ultra HD) 4K",
+                    "Batarya Kapasitesi (Tipik)": "3692 mAh",
+                    "SAR Değeri 10g (Baş)": "1.49 W/kg",
+                    "İşletim Sistemi Versiyonu": "iOS 26",
+                    "TÜM ÖZELLİKLER": ""
+                },
+                "EKRAN": {
+                    "Ekran Boyutu": "6.3 İnç",
+                    "Ekran Teknolojisi": "OLED",
+                    "Ekran Çözünürlüğü": "1206x2622 (FHD+) Piksel",
+                    "Ekran Çözünürlüğü Standardı": "FHD+",
+                    "Piksel Yoğunluğu": "460 PPI",
+                    "Ekran Yenileme Hızı": "120 Hz",
+                    "Ekran Oranı (Aspect Ratio)": "19.5:9",
+                    "Ekran Alanı": "96.31 cm²",
+                    "Ekran Özellikleri": "1000 cd/m² (nit) Parlaklık\n1600 cd/m² (nit) Parlaklık (HDR)\n2.000.000:1 Kontrast Oranı (Tipik)\n3000 cd/m² (nit) Parlaklık (Maks.)\nÇerçevesiz Tasarım\nÇizilmeye Dirençli Cam\nDCI-P3 Renk Uzayı\nDolby Vision\nEkran İçinde Ön Kamera\nHDR\nHDR10\nHLG\nLow-Temperature Polycrystalline Oxide (LTPO)\nMulti Touch\nOleophobic Coating\nSuper Retina XDR Display\nSürekli Açık Ekran (Always-on Display)\nTrue Tone Ekran",
+                    "Ekran Dayanıklılığı": "Corning Ceramic Shield Glass (Gen2)",
+                    "Renk Sayısı": "16 Milyon",
+                    "Ekran / Gövde Oranı": "90.04 %"
+                },
+                "BATARYA": {
+                    "Batarya Kapasitesi (Tipik)": "3692 mAh",
+                    "Video Oynatma": "27 Saat",
+                    "Şarj": "USB Type-C",
+                    "Batarya Teknolojisi": "Lithium Ion (Li-Ion)",
+                    "Hızlı Şarj": "Var",
+                    "Hızlı Şarj Gücü (Maks.)": "40 W",
+                    "Hızlı Şarj Özellikleri": "Hızlı Şarj (40W)",
+                    "Kablosuz Şarj": "Var",
+                    "Kablosuz Şarj Özellikleri": "Kablosuz Hızlı Şarj\nMagSafe ile Kablosuz Hızlı Şarj (30W)",
+                    "Değişir Batarya": "Yok",
+                    "Batarya Özellikleri": "20 Dakikada %50 Dolum"
+                },
+                "KAMERA": {
+                    "Kamera Çözünürlüğü": "48 MP",
+                    "Optik Görüntü Sabitleyici (OIS)": "Var",
+                    "Kamera Özellikleri": "1.0μm (2.0μm) Piksel\nDahili QR Kod Okuyucu\nFiziki Denklanşör Tuşu\nFocus Pixels Otomatik Odaklama\nHDR\nKırmızı Göz (Red-eye) Düzeltme\nLive Photos\nOtomatik Odaklama\nPanorama\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nSafir Kristal Objektif Kapağı\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+                    "Flaş": "LED",
+                    "Diyafram Açıklığı": "F1.6",
+                    "Kayıpsız Yakınlaştırma": "2 x",
+                    "Video Kayıt Çözünürlüğü": "2160p (Ultra HD) 4K",
+                    "Video FPS Değeri": "60 fps",
+                    "Video Kayıt Özellikleri": "Dijital görüntü sabitleyici (EIS)\nDolby Vision Kayıt\nHDR\nHDR (4K)\nHDR (4K) 60fps\nStereo Ses Kaydı\nSürekli Otomatik Odaklama\nTime-lapse (Hyperlapse)\nVideo Yakınlaştırma\nYavaş Çekim Video Kayıt (Slow motion video)",
+                    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 24fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n2160p @ 25fps\n1080p @ 25fps",
+                    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps",
+                    "İkinci Arka Kamera": "Var",
+                    "İkinci Arka Kamera Çözünürlüğü": "48 MP",
+                    "İkinci Arka Kamera Diyafram": "F2.2",
+                    "İkinci Arka Kamera Özellikleri": "0.7μm (1.4μm) Piksel\n13mm\nEkstra Geniş Açı\nEkstra Geniş Açı (120°)\nMakro (Macro) Çekim\nOtomatik Odaklama",
+                    "Üçüncü Arka Kamera": "",
+                    "Üçüncü Arka Kamera Çözünürlüğü": "",
+                    "Üçüncü Arka Kamera Diyafram": "",
+                    "Üçüncü Arka Kamera Özellikleri": "",
+                    "Ön Kamera Çözünürlüğü": "18 MP",
+                    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+                    "Ön Kamera FPS Değeri": "60 fps",
+                    "Ön Kamera Diyafram Açıklığı": "F1.9",
+                    "Ön Kamera Özellikleri": "1080p @ 120fps Kayıt\nAnimoji\nDijital görüntü sabitleyici (EIS)\nHDR\nLive Photos\nOtomatik Odaklama\nPortre Modu\nPozlama Kontrolü\nSanal Flaş\nSeri Çekim (Burst) Modu\nTime-lapse (Hyperlapse)\nTrueDepth Camera\nVideo HDR\nVideo HDR Dolby Vision\nYavaş Çekim (Slow Motion) Video Kayıt\nYüz Algılama\nZamanlayıcı (self-timer)",
+                    "DxOMark Camera (v6)": "157 Puan"
+                },
+                "TEMEL DONANIM": {
+                    "Yonga Seti (Chipset)": "Apple A19",
+                    "CPU Frekansı": "4.26 GHz",
+                    "CPU Çekirdeği": "6 Çekirdek",
+                    "Ana İşlemci (CPU)": "2x 4.26 GHz",
+                    "1. Yardımcı İşlemci": "4x 2.50 GHz",
+                    "2. Yardımcı İşlemci": "",
+                    "İşlemci Mimarisi": "64-bit",
+                    "Grafik İşlemcisi (GPU)": "5x Apple GPU",
+                    "CPU Üretim Teknolojisi": "3 nm",
+                    "AnTuTu Puanı (v10)": "2.542.200 Puan",
+                    "AnTuTu Puanı (v11)": "2.124.400 Puan",
+                    "Geekbench 6 (Single-core)": "3.730 Puan",
+                    "Geekbench 6 (Multi-core)": "9.615 Puan",
+                    "Bellek (RAM)": "8 GB",
+                    "Dahili Depolama": "256 GB",
+                    "Dahili Depolama Biçimi": "",
+                    "Hafıza Kartı Desteği": "Yok",
+                    "Diğer Hafıza Seçenekleri": "256/512GB Depolama seçeneği var"
+                },
+                "TASARIM": {
+                    "Boy": "149.6 mm",
+                    "En": "71.5 mm",
+                    "Kalınlık": "7.95 mm",
+                    "Ağırlık": "177 Gram",
+                    "Renk Seçenekleri": "Beyaz\nMavi\nMor\nSiyah\nYeşil",
+                    "Gövde Malzemesi (Kapak)": "Cam",
+                    "Gövde Malzemesi (Çerçeve)": "Alüminyum"
+                },
+                "AĞ BAĞLANTILARI": {
+                    "2G": "Var",
+                    "2G Frekansları": "",
+                    "3G": "Var",
+                    "3G Frekansları": "",
+                    "4G": "Var",
+                    "4G Frekansları": "",
+                    "4G Özellikleri": "VoLTE (Voice over LTE) Desteği",
+                    "4.5G Desteği": "Var",
+                    "5G": "Var"
+                },
+                "İŞLETİM SİSTEMİ": {
+                    "İşletim Sistemi": "iOS",
+                    "İşletim Sistemi Versiyonu": "iOS 26",
+                    "Kullanıcı Arayüzü": "",
+                    "Lansman Arayüz Versiyonu": ""
+                },
+                "KABLOSUZ BAĞLANTILAR": {
+                    "Wi-Fi Kanalları": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)",
+                    "Wi-Fi Özellikleri": "2X MIMO\nDual-Band (5GHz)\nMIMO\nThread Networking Protocol\nVoWiFi (Wi-Fi Araması)\nWi-Fi Hotspot",
+                    "NFC": "Var",
+                    "Bluetooth Versiyonu": "6.0",
+                    "Kızılötesi": "Yok",
+                    "Navigasyon Özellikleri": "BDS\nDual-Frequency GPS\nGalileo\nGLONASS\nGPS\nNavIC\nQZSS"
+                },
+                "ÇOKLU ORTAM": {
+                    "Radyo": "Yok",
+                    "Hoparlör Özellikleri": "Çift Hoparlör\nStereo",
+                    "Ses Çıkışı": "USB Type-C"
+                },
+                "ÖZELLİKLER": {
+                    "Suya Dayanıklılık": "Var",
+                    "Suya Dayanıklılık Seviyesi": "IPX8",
+                    "Toza Dayanıklılık": "Var",
+                    "Toza Dayanıklılık Seviyesi": "IP6X",
+                    "Görüntülü Konuşma (Uygulama)": "Var",
+                    "Sensörler": "Barometre\nİvmeölçer\nJiroskop\nOrtam Işığı Sensörü\nOrtam Işığı Sensörü (Arka)\nPusula\nYakınlık Sensörü",
+                    "Parmak izi Okuyucu": "Yok",
+                    "Parmak izi Okuyucu Özellikleri": "",
+                    "Bildirim Işığı (LED)": "Yok",
+                    "SAR Değeri 10g (Baş)": "1.49 W/kg",
+                    "SAR Değeri 10g (Vücut)": "1.49 W/kg",
+                    "Servis ve Uygulamalar": "AirPlay\nApple Pay\nArttırılmış Gerçeklik (Augmented Reality-AR) Uyumu\nDolby Atmos\nEkran Yansıtma (Screen Mirroring)\nFace ID\nFaceTime\nGürültü Önleyici 2 Mikrofon\niCloud Drive\nKısayol Tuşu (Kişiselleştirilebilir)\nKısayol Tuşu (Sessiz Mod)\nMagSafe\nSiri\nTrafik Kazası Algılama\nUltra Geniş Bant (UWB)\nYüz Tanımlama\nYüz Tanımlama (3D)",
+                    "Kutu İçeriği": "SIM Çıkartma İğnesi\nUSB Kablosu (Type-C'den Type-C'ye)"
+                },
+                "DİĞER BAĞLANTILAR": {
+                    "USB Versiyonu": "2.0",
+                    "USB Bağlantı Tipi": "USB Type-C",
+                    "USB Özellikleri": "DisplayPort\nKulaklık Ses Çıkışı",
+                    "Hat Sayısı": "Çift Hat",
+                    "SIM": "eSIM\nNano-SIM (4FF)"
+                },
+                "AB ÜRÜN KAYIT ve ENERJİ ETİKETİ": {
+                    "Enerji Sınıfı": "A",
+                    "Şarj Sonrası Pil Süresi": "41 saat",
+                    "Düşme Direnci Sınıfı": "B",
+                    "Onarılabilirlik Sınıfı": "C",
+                    "Şarj Döngü Sayısı (AB)": "1000 Döngü",
+                    "Suya ya da Toza Direnç Sınıfı": "IP68"
+                },
+                "TEMEL BİLGİLER": {
+                    "Çıkış Yılı": "2025",
+                    "Duyurulma Tarihi": "2025, Eylül",
+                    "Seri": "Apple iPhone 17",
+                    "Alt Seri": "Apple iPhone 17",
+                    "Sadece Farkları Göster": "Giriş Yap\nSitemizi kullanarak, çerez kullanımına izin vermektesiniz. Daha fazla bilgi için Çerez Politikası. ✖ Kapat\nKurumsal\nKullanım Şartları\nGizlilik Politikası\nİletişim\nFacebook\nTwitter"
+                }
+            }
+        }
+    ]
+}

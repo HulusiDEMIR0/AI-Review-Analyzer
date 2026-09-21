@@ -1,0 +1,2908 @@
+====================================================================================================
+AI REVIEW ANALYZER - 15 TEST SONUÇLARI
+====================================================================================================
+
+Query Analyzer, Technical Data, Retriever ve Final LLM sonuçları kaydedilir.
+Context Builder detayları ayrıca kaydedilmez.
+
+
+####################################################################################################
+TEST 1/15
+SORU: Samsung FE 25'in ekranı nasıl?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "EKRAN"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "EKRAN"
+        }
+    }
+}
+Technical Data Süresi: 7.5713 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_58",
+            "review_63",
+            "review_6",
+            "review_22"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "yani s25 fe işte yedek telefon olarak aldım evde duracak kargo hızlı geldi pazartesi kargolandı salı geldi kargocu kapıya bırakmasa daha iyi olabilirdi çalınma riskine karşı ben s26 ultra kullanıyorum fe serisi güzel cihazlar s26fe çıkarsa onuda alacağım eylül ayında vs çıkar herhalde",
+            "Samsung Galaxy S25FE 8/256 GB telefonum ulaştı, Rengi, hızı, alanı, kamerası harika orjinal kutusunda geldi, beklentimizi karşıladı. Siparişimizin aynı gün Özenle kargolanip ertesi gün teslim edilmesi konusunda gösterdiği saygi için satıcıya teşekkür ederiz. Emeğinize sağlık.",
+            "önce samsung a 26 kullanıyordum sonra buna geçtim güzel telefon"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1778913270834",
+                "puan": "5"
+            },
+            {
+                "tarih": "1762357001718",
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1782215637835",
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol"
+            },
+            {
+                "urun": "",
+                "puan": "5",
+                "satici": "Kamer Online",
+                "tarih": "1766689449651"
+            },
+            {
+                "urun": "",
+                "tarih": "1781980150077",
+                "satici": "Trendyol",
+                "puan": "5"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.34336185455322266,
+            0.38672059774398804,
+            0.4203870892524719,
+            0.42308199405670166,
+            0.42669856548309326
+        ]
+    ]
+}
+Retriever Süresi: 1.0829 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: EKRAN
+TEKNİK VERİ:
+{
+    "Ekran Boyutu": "6.7 İnç",
+    "Ekran Teknolojisi": "Dynamic AMOLED",
+    "Ekran Çözünürlüğü": "1080x2340 (FHD+) Piksel",
+    "Ekran Çözünürlüğü Standardı": "FHD+",
+    "Piksel Yoğunluğu": "385 PPI",
+    "Ekran Yenileme Hızı": "120 Hz",
+    "Ekran Oranı (Aspect Ratio)": "19.5:9",
+    "Ekran Alanı": "109.94 cm²",
+    "Ekran Özellikleri": "1900 cd/m² (nit) Parlaklık (Maks.)\nÇerçevesiz Tasarım\nÇizilmeye Dirençli Cam\nDynamic AMOLED 2X\nEkran İçinde Ön Kamera\nHDR\nHDR10\nHDR10+\nMulti Touch\nSürekli Açık Ekran (Always-on Display)",
+    "Ekran Dayanıklılığı": "Corning Gorilla Glass Victus+",
+    "Renk Sayısı": "16 Milyon",
+    "Ekran / Gövde Oranı": "88.98 %"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE'nin ekranı 6.7 İnçlik Dynamic AMOLED ekran sunar ve 1080x2340 (FHD+) çözünürlükte 385 PPI piksel yoğunluğunda. Ekranın yenileme hızı 120 Hz'dir, bu, ekranın akıcı hareket sağlayarak kullanıcının deneyimini iyileştirebilir. Ekranın parlaklığı 1900 cd/m² (nit) olup, çerçevesiz tasarımı ve Gorilla Glass Victus+ dayanıklılığı ile korunmuş durumda kalabilir. Ekranın oranı 19.5:9 ve alanı 109.94 cm²'dir. Ekranın %88.98 oranında gövde kaplaması, daha zengin bir ekran deneyimi sunar. Ekranın özelliklerinden memnuniyet duyulan noktalar arasında çizilmeye dirençli cam, HDR, HDR10 ve HDR10+ destekleme, multi touch ve sürekli açık ekran bulunur. Genel olarak, kullanıcılar ekranın kalitesini ve performansını olumlu değerlendirmiştir.
+Final LLM Süresi: 76.0420 saniye
+
+================================================================================
+TEST SÜRESİ: 106.8545 saniye
+================================================================================
+
+####################################################################################################
+TEST 2/15
+SORU: Samsung FE 25'in bataryası nasıl?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "BATARYA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "BATARYA"
+        }
+    }
+}
+Technical Data Süresi: 7.8573 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_47",
+            "review_74",
+            "review_58",
+            "review_76"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "Trendyol'dan aldığım ikinci telefon. İnternetten telefon alırken güven sorunlarım vardır. Trendyol bunu yıktı. Artık tüm telefonlarımı buradan alabilirim. Gayet güzel paketlenmiş şekilde ulaştı. Fiyatı da diğer satıcılara göre epeyce uygundu. Bir de bana kupon tanımladılar. Her iki telefonu da güzel indirimler ile aldım. Telefona gelirsek; açıkçası s25+ ile aralarında uçurum var ilkin bunu söylemekte fayda var. Gerek kamerası, gerek işlemcisi s25+'lık farkedilir şekilde altında kalıyor. Onu dışındaki özellikleri de hemen hemen 25+ ile benzer özellikler taşıyor. Uygun fiyata alınıp senelerce kullanılabilecek bir telefon diye düşünüyorum. Bu arada 45watt ile şarj ederseniz şartı ortalama bir kullanımda 2,5 gün rahat gidiyor bunu söylemeden de olmazdı. Yalnız muhakkak 45watt bir şarj aleti ve uyumlu bir kablo kullanılması gerekiyor. Eskiden telefonunu her gün şarj eden biri olarak yalnızca bu yenilik bile ödediğim paraya kesinlikle değiyor.",
+            "telefonum şarji hemen bitiyor bununla ilgili ne yapabilirim",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "Şarj konusunda beni pek tatmin etmedi"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "puan": "5",
+                "tarih": "1778913270834",
+                "satici": "Trendyol",
+                "urun": ""
+            },
+            {
+                "satici": "Trendyol",
+                "urun": "",
+                "puan": "5",
+                "tarih": "1777568078485"
+            },
+            {
+                "tarih": "1770926608599",
+                "satici": "Ayaz İletişm",
+                "puan": "3",
+                "urun": ""
+            },
+            {
+                "tarih": "1762357001718",
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol"
+            },
+            {
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "4",
+                "tarih": "1775765960064"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.31462931632995605,
+            0.3836404085159302,
+            0.39288514852523804,
+            0.3961372971534729,
+            0.3995097279548645
+        ]
+    ]
+}
+Retriever Süresi: 0.0742 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: BATARYA
+TEKNİK VERİ:
+{
+    "Batarya Kapasitesi (Tipik)": "4900 mAh",
+    "Video Oynatma": "28 Saat",
+    "Şarj": "USB Type-C",
+    "Batarya Teknolojisi": "Lithium Ion (Li-Ion)",
+    "Hızlı Şarj": "Var",
+    "Hızlı Şarj Gücü (Maks.)": "45 W",
+    "Hızlı Şarj Özellikleri": "Hızlı Şarj (45W)",
+    "Kablosuz Şarj": "Var",
+    "Kablosuz Şarj Özellikleri": "Kablosuz Hızlı Şarj\nKablosuz Hızlı Şarj (15W)",
+    "Değişir Batarya": "Yok",
+    "Batarya Özellikleri": "30 Dakikada %65 Dolum"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE'nin bataryası genel olarak iyi bir performans göstermektedir. 4900 mAh kapasitesine sahip bir lithium ion batarya ile, video oynatma süresi 28 saat olarak belirtilmiştir. Hızlı şarj özelliği de mevcut ve 45W maksimum güç ile şarj edilebilir. 30 dakikada %65 dolum süresi de belirtilmiştir. Ancak bazı kullanıcılar şarj süresi ve ısınma konusunda olumsuz yorumlar vermiştir. Genel olarak, 45W şarj aleti ile uyumlu kullanımlarda 2,5 gün boyunca rahat bir kullanım sağlayabilmektedir.
+Final LLM Süresi: 57.8780 saniye
+
+================================================================================
+TEST SÜRESİ: 86.9117 saniye
+================================================================================
+
+####################################################################################################
+TEST 3/15
+SORU: iPhone 17'nin kamerası nasıl?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "İphone_17"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        }
+    }
+}
+Technical Data Süresi: 7.2079 saniye
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_14",
+            "review_16",
+            "review_71"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "tarih": "1764504736703",
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "5"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1768504532945"
+            },
+            {
+                "puan": "5",
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1761168654988"
+            },
+            {
+                "satici": "MediaMarkt",
+                "urun": "",
+                "tarih": "1772698721315",
+                "puan": "5"
+            },
+            {
+                "urun": "",
+                "puan": "4",
+                "satici": "Trendyol",
+                "tarih": "1770704760666"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.3011438250541687,
+            0.30891525745391846,
+            0.34957605600357056,
+            0.3698936700820923,
+            0.3944333791732788
+        ]
+    ]
+}
+Retriever Süresi: 0.0838 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: KAMERA
+TEKNİK VERİ:
+{
+    "Kamera Çözünürlüğü": "48 MP",
+    "Optik Görüntü Sabitleyici (OIS)": "Var",
+    "Kamera Özellikleri": "1.0μm (2.0μm) Piksel\nDahili QR Kod Okuyucu\nFiziki Denklanşör Tuşu\nFocus Pixels Otomatik Odaklama\nHDR\nKırmızı Göz (Red-eye) Düzeltme\nLive Photos\nOtomatik Odaklama\nPanorama\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nSafir Kristal Objektif Kapağı\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+    "Flaş": "LED",
+    "Diyafram Açıklığı": "F1.6",
+    "Kayıpsız Yakınlaştırma": "2 x",
+    "Video Kayıt Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Video FPS Değeri": "60 fps",
+    "Video Kayıt Özellikleri": "Dijital görüntü sabitleyici (EIS)\nDolby Vision Kayıt\nHDR\nHDR (4K)\nHDR (4K) 60fps\nStereo Ses Kaydı\nSürekli Otomatik Odaklama\nTime-lapse (Hyperlapse)\nVideo Yakınlaştırma\nYavaş Çekim Video Kayıt (Slow motion video)",
+    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 24fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n2160p @ 25fps\n1080p @ 25fps",
+    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps",
+    "İkinci Arka Kamera": "Var",
+    "İkinci Arka Kamera Çözünürlüğü": "48 MP",
+    "İkinci Arka Kamera Diyafram": "F2.2",
+    "İkinci Arka Kamera Özellikleri": "0.7μm (1.4μm) Piksel\n13mm\nEkstra Geniş Açı\nEkstra Geniş Açı (120°)\nMakro (Macro) Çekim\nOtomatik Odaklama",
+    "Üçüncü Arka Kamera": "",
+    "Üçüncü Arka Kamera Çözünürlüğü": "",
+    "Üçüncü Arka Kamera Diyafram": "",
+    "Üçüncü Arka Kamera Özellikleri": "",
+    "Ön Kamera Çözünürlüğü": "18 MP",
+    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Ön Kamera FPS Değeri": "60 fps",
+    "Ön Kamera Diyafram Açıklığı": "F1.9",
+    "Ön Kamera Özellikleri": "1080p @ 120fps Kayıt\nAnimoji\nDijital görüntü sabitleyici (EIS)\nHDR\nLive Photos\nOtomatik Odaklama\nPortre Modu\nPozlama Kontrolü\nSanal Flaş\nSeri Çekim (Burst) Modu\nTime-lapse (Hyperlapse)\nTrueDepth Camera\nVideo HDR\nVideo HDR Dolby Vision\nYavaş Çekim (Slow Motion) Video Kayıt\nYüz Algılama\nZamanlayıcı (self-timer)",
+    "DxOMark Camera (v6)": "157 Puan"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+iPhone 17'nin kamera özellikleri, kullanıcı yorumlarına göre oldukça güçlü ve versatile. Arka kamera, 48 MP çözünürlükte ve OIS ile desteklenen bir 1.0μm (2.0μm) piksel boyutunda, geniş bir diyafram (F1.6) ve Phase Detect Auto-Focus (PDAF) ile yüksek kaliteli fotoğraflar çekmenize olanak tanır. Ayrıca, Portre Modu, Seri Çekim (Burst) Modu ve Time-lapse gibi çeşitli kamera özelliklerini destekler.
+
+Kullanıcılar, kamera performansının özellikle görüntülü konuşmalarda genişleme özelliğiyle ve genel fotoğraf kalitesiyle övgüyle karşılanmış olup, pro modellerle arasındaki farkın minimal olduğunu belirtmişlerdir. Ayrıca, kamera kilitlenme ve zamanlayıcı gibi bazı özelliklerin bazı durumlarda sorunlar yaratabileceğini de belirtmişlerdir.
+
+Genel olarak, iPhone 17'in kamera performansı, özellikle profesyonel kullanıma gerek yoksa veya 17 Pro ile arasındaki farkın minimal olduğunu düşünüyorsanız, 17 modelini tercih etmeniz mantıklı olabilir.
+Final LLM Süresi: 81.1271 saniye
+
+================================================================================
+TEST SÜRESİ: 107.3314 saniye
+================================================================================
+
+####################################################################################################
+TEST 4/15
+SORU: iPhone 17'nin tasarımı nasıl?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "İphone_17"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "TASARIM"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "TASARIM"
+        }
+    }
+}
+Technical Data Süresi: 7.1941 saniye
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_71",
+            "review_14",
+            "review_16"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "tarih": "1764504736703",
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "tarih": "1768504532945",
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "satici": "Trendyol",
+                "puan": "4",
+                "urun": "",
+                "tarih": "1770704760666"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1761168654988"
+            },
+            {
+                "satici": "MediaMarkt",
+                "urun": "",
+                "tarih": "1772698721315",
+                "puan": "5"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.30302977561950684,
+            0.3424763083457947,
+            0.3811025619506836,
+            0.39157670736312866,
+            0.40359175205230713
+        ]
+    ]
+}
+Retriever Süresi: 0.0583 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: TASARIM
+TEKNİK VERİ:
+{
+    "Boy": "149.6 mm",
+    "En": "71.5 mm",
+    "Kalınlık": "7.95 mm",
+    "Ağırlık": "177 Gram",
+    "Renk Seçenekleri": "Beyaz\nMavi\nMor\nSiyah\nYeşil",
+    "Gövde Malzemesi (Kapak)": "Cam",
+    "Gövde Malzemesi (Çerçeve)": "Alüminyum"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+iPhone 17'nin tasarımına dair genel bir incelemeye göre, rengi görsellerde daha da güzel görünüyor ve arka kısmının mat bir dokusu var. Lensler de göründüğünden daha büyük ve kamera performansı, özellikle görüntülü konuşmalarda genişleme özelliği ile övgü almış. Ekran, özellikle güneş ışığı altında mükemmel bir parlaklık sunuyor. Genel olarak, iPhone 17, basic model olmasına rağmen premium bir cihaz olarak tasarımlı ve profesyonel amaçlı kullanımlar için de yeterli özelliklere sahip.
+Final LLM Süresi: 49.7272 saniye
+
+================================================================================
+TEST SÜRESİ: 75.3605 saniye
+================================================================================
+
+####################################################################################################
+TEST 5/15
+SORU: Samsung FE 25'in temel donanımı nasıl?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "TEMEL DONANIM"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "TEMEL DONANIM"
+        }
+    }
+}
+Technical Data Süresi: 7.5367 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_58",
+            "review_33",
+            "review_20",
+            "review_60"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "Geç değerlendirme yapmak istedim uzun kullanım olsun diye, Amiral gemisi telefon alamıyorsanız ya da gereksiz geliyorsa tepe telefonlar, paranın alacağı en iyi telefon. İnanılmaz memnunum bu FE serisinden zaten. Trendyol'a da ayrıca teşekkürler, Akşam verdiğim sipariş ertesi gün öğlen olmadan elime ulaştı. Kamera özellikleri hızı kullanımı abilerinden farksız, yapay zeka özellikleri vs. dört dörtlük telefon. Düşünmeden alın.",
+            "oncelikle saglam ve hizli kargolama icin tesekkur ediyorum. ozellikleri dusundugumden de iyi. fe serisi oldugu icin diger s seri telefonlardan daha geride ama a serisinden daha ileride bir performansinin oldugunu biliyorum ama bu fiyata alinabilecek en iyilerden biri diye dusunuyorum.",
+            "guzel cihaz"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "tarih": "1778913270834",
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1762357001718"
+            },
+            {
+                "tarih": "1778691958124",
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "urun": "",
+                "puan": "5",
+                "tarih": "1778923545198",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1778835448833",
+                "puan": "5",
+                "satici": "Trendyol",
+                "urun": ""
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.3167531490325928,
+            0.4076646566390991,
+            0.42342066764831543,
+            0.4332845211029053,
+            0.4392913579940796
+        ]
+    ]
+}
+Retriever Süresi: 0.0777 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: TEMEL DONANIM
+TEKNİK VERİ:
+{
+    "Yonga Seti (Chipset)": "Samsung Exynos 2400",
+    "CPU Frekansı": "3.2 GHz",
+    "CPU Çekirdeği": "10 Çekirdek",
+    "Ana İşlemci (CPU)": "1x 3.2 GHz ARM Cortex-X4",
+    "1. Yardımcı İşlemci": "2x 2.9 GHz ARM Cortex-A720\n3x 2.6 GHz ARM Cortex-A720",
+    "2. Yardımcı İşlemci": "4x 1.95 GHz ARM Cortex-A520",
+    "İşlemci Mimarisi": "64-bit",
+    "Grafik İşlemcisi (GPU)": "Samsung Xclipse 940",
+    "CPU Üretim Teknolojisi": "4 nm",
+    "AnTuTu Puanı (v10)": "1.810.600 Puan",
+    "AnTuTu Puanı (v11)": "2.238.000 Puan",
+    "Geekbench 6 (Single-core)": "2.155 Puan",
+    "Geekbench 6 (Multi-core)": "7.005 Puan",
+    "Bellek (RAM)": "8 GB",
+    "Dahili Depolama": "256 GB",
+    "Dahili Depolama Biçimi": "UFS 4.0",
+    "Hafıza Kartı Desteği": "Yok",
+    "Diğer Hafıza Seçenekleri": "128/256/512GB Depolama seçeneği var"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE'nin temel donanımı şunlardır:
+
+- **Yonga Seti (Chipset):** Samsung Exynos 2400
+- **CPU Frekansı:** 3.2 GHz
+- **CPU Çekirdeği:** 10 Çekirdek
+- **Ana İşlemci (CPU):** 1x 3.2 GHz ARM Cortex-X4, 2x 2.9 GHz ARM Cortex-A720, 3x 2.6 GHz ARM Cortex-A720, 4x 1.95 GHz ARM Cortex-A520
+- **İşlemci Mimarisi:** 64-bit
+- **Grafik İşlemcisi (GPU):** Samsung Xclipse 940
+- **CPU Üretim Teknolojisi:** 4 nm
+- **AnTuTu Puanı (v10):** 1.810.600 Puan
+- **AnTuTu Puanı (v11):** 2.238.000 Puan
+- **Geekbench 6 (Single-core):** 2.155 Puan
+- **Geekbench 6 (Multi-core):** 7.005 Puan
+- **Bellek (RAM):** 8 GB
+- **Dahili Depolama:** 256 GB (UFS 4.0)
+- **Hafıza Kartı Desteği:** Yok
+- **Diğer Hafıza Seçenekleri:** 128/256/512GB Depolama seçeneği var
+
+Bu özellikler, kullanıcıların genel olumlu yorumlarına dayanarak belirlenmiştir. Özellikle kamera özelliklerinden, özellikle makro çekimlerdeki netlikten ve yapay zeka özelliklerinden memnun kalmış olanlar bulunmaktadır. Telefonun fiyat-performans oranı, birçok kullanıcı tarafından olumlu değerlendirilmiş ve tavsiye edilmiştir.
+Final LLM Süresi: 135.4544 saniye
+
+================================================================================
+TEST SÜRESİ: 164.7483 saniye
+================================================================================
+
+####################################################################################################
+TEST 6/15
+SORU: Samsung FE 25'in ekran yenileme hızı kaç Hz?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "EKRAN"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "EKRAN"
+        }
+    }
+}
+Technical Data Süresi: 7.3907 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_58",
+            "review_6",
+            "review_34",
+            "review_63"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "Samsung Galaxy S25FE 8/256 GB telefonum ulaştı, Rengi, hızı, alanı, kamerası harika orjinal kutusunda geldi, beklentimizi karşıladı. Siparişimizin aynı gün Özenle kargolanip ertesi gün teslim edilmesi konusunda gösterdiği saygi için satıcıya teşekkür ederiz. Emeğinize sağlık.",
+            "güzel telefon yeni aldım kullanınca daha net beli olacak",
+            "yani s25 fe işte yedek telefon olarak aldım evde duracak kargo hızlı geldi pazartesi kargolandı salı geldi kargocu kapıya bırakmasa daha iyi olabilirdi çalınma riskine karşı ben s26 ultra kullanıyorum fe serisi güzel cihazlar s26fe çıkarsa onuda alacağım eylül ayında vs çıkar herhalde"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "satici": "Trendyol",
+                "puan": "5",
+                "tarih": "1778913270834",
+                "urun": ""
+            },
+            {
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "5",
+                "tarih": "1762357001718"
+            },
+            {
+                "tarih": "1766689449651",
+                "urun": "",
+                "puan": "5",
+                "satici": "Kamer Online"
+            },
+            {
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": "",
+                "tarih": "1775224458821"
+            },
+            {
+                "satici": "Trendyol",
+                "puan": "5",
+                "tarih": "1782215637835",
+                "urun": ""
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.41079264879226685,
+            0.41400837898254395,
+            0.44572651386260986,
+            0.45445793867111206,
+            0.4569764733314514
+        ]
+    ]
+}
+Retriever Süresi: 0.0696 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: EKRAN
+TEKNİK VERİ:
+{
+    "Ekran Boyutu": "6.7 İnç",
+    "Ekran Teknolojisi": "Dynamic AMOLED",
+    "Ekran Çözünürlüğü": "1080x2340 (FHD+) Piksel",
+    "Ekran Çözünürlüğü Standardı": "FHD+",
+    "Piksel Yoğunluğu": "385 PPI",
+    "Ekran Yenileme Hızı": "120 Hz",
+    "Ekran Oranı (Aspect Ratio)": "19.5:9",
+    "Ekran Alanı": "109.94 cm²",
+    "Ekran Özellikleri": "1900 cd/m² (nit) Parlaklık (Maks.)\nÇerçevesiz Tasarım\nÇizilmeye Dirençli Cam\nDynamic AMOLED 2X\nEkran İçinde Ön Kamera\nHDR\nHDR10\nHDR10+\nMulti Touch\nSürekli Açık Ekran (Always-on Display)",
+    "Ekran Dayanıklılığı": "Corning Gorilla Glass Victus+",
+    "Renk Sayısı": "16 Milyon",
+    "Ekran / Gövde Oranı": "88.98 %"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE'nin ekran yenileme hızı 120 Hz'dır.
+Final LLM Süresi: 24.3394 saniye
+
+================================================================================
+TEST SÜRESİ: 52.7751 saniye
+================================================================================
+
+####################################################################################################
+TEST 7/15
+SORU: Samsung FE 25'in dahili depolama seçenekleri neler?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "Dahili Depolama"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": null
+        }
+    }
+}
+Technical Data Süresi: 8.4304 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_63",
+            "review_6",
+            "review_58",
+            "review_20"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "yani s25 fe işte yedek telefon olarak aldım evde duracak kargo hızlı geldi pazartesi kargolandı salı geldi kargocu kapıya bırakmasa daha iyi olabilirdi çalınma riskine karşı ben s26 ultra kullanıyorum fe serisi güzel cihazlar s26fe çıkarsa onuda alacağım eylül ayında vs çıkar herhalde",
+            "Samsung Galaxy S25FE 8/256 GB telefonum ulaştı, Rengi, hızı, alanı, kamerası harika orjinal kutusunda geldi, beklentimizi karşıladı. Siparişimizin aynı gün Özenle kargolanip ertesi gün teslim edilmesi konusunda gösterdiği saygi için satıcıya teşekkür ederiz. Emeğinize sağlık.",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "oncelikle saglam ve hizli kargolama icin tesekkur ediyorum. ozellikleri dusundugumden de iyi. fe serisi oldugu icin diger s seri telefonlardan daha geride ama a serisinden daha ileride bir performansinin oldugunu biliyorum ama bu fiyata alinabilecek en iyilerden biri diye dusunuyorum."
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "tarih": "1778913270834",
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "5"
+            },
+            {
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol",
+                "tarih": "1782215637835"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "tarih": "1766689449651",
+                "satici": "Kamer Online"
+            },
+            {
+                "puan": "5",
+                "tarih": "1762357001718",
+                "satici": "Trendyol",
+                "urun": ""
+            },
+            {
+                "puan": "5",
+                "tarih": "1778923545198",
+                "satici": "Trendyol",
+                "urun": ""
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.38633954524993896,
+            0.3873676061630249,
+            0.4254664182662964,
+            0.4506983160972595,
+            0.4531242251396179
+        ]
+    ]
+}
+Retriever Süresi: 0.0797 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: None
+Teknik kategori bulunamadı.
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE'in dahili depolama seçenekleri şu an mevcut bilgiler doğrultusunda belirtilmemiştir. Ürünün teknik özelliklerinde veya kullanıcı yorumlarında dahili depolama seçenekleri hakkında herhangi bir bilgi bulunmamaktadır.
+Final LLM Süresi: 35.1116 saniye
+
+================================================================================
+TEST SÜRESİ: 63.6793 saniye
+================================================================================
+
+####################################################################################################
+TEST 8/15
+SORU: iPhone 17'nin kamera çözünürlüğü kaç MP?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "İphone_17"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        }
+    }
+}
+Technical Data Süresi: 7.8500 saniye
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_14",
+            "review_16",
+            "review_71"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "urun": "",
+                "puan": "5",
+                "tarih": "1764504736703",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1768504532945",
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "tarih": "1761168654988",
+                "satici": "Trendyol",
+                "urun": "",
+                "puan": "5"
+            },
+            {
+                "puan": "5",
+                "satici": "MediaMarkt",
+                "urun": "",
+                "tarih": "1772698721315"
+            },
+            {
+                "puan": "4",
+                "urun": "",
+                "tarih": "1770704760666",
+                "satici": "Trendyol"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.285986065864563,
+            0.29291272163391113,
+            0.3371250629425049,
+            0.3712456226348877,
+            0.3777141571044922
+        ]
+    ]
+}
+Retriever Süresi: 0.0715 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: KAMERA
+TEKNİK VERİ:
+{
+    "Kamera Çözünürlüğü": "48 MP",
+    "Optik Görüntü Sabitleyici (OIS)": "Var",
+    "Kamera Özellikleri": "1.0μm (2.0μm) Piksel\nDahili QR Kod Okuyucu\nFiziki Denklanşör Tuşu\nFocus Pixels Otomatik Odaklama\nHDR\nKırmızı Göz (Red-eye) Düzeltme\nLive Photos\nOtomatik Odaklama\nPanorama\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nSafir Kristal Objektif Kapağı\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+    "Flaş": "LED",
+    "Diyafram Açıklığı": "F1.6",
+    "Kayıpsız Yakınlaştırma": "2 x",
+    "Video Kayıt Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Video FPS Değeri": "60 fps",
+    "Video Kayıt Özellikleri": "Dijital görüntü sabitleyici (EIS)\nDolby Vision Kayıt\nHDR\nHDR (4K)\nHDR (4K) 60fps\nStereo Ses Kaydı\nSürekli Otomatik Odaklama\nTime-lapse (Hyperlapse)\nVideo Yakınlaştırma\nYavaş Çekim Video Kayıt (Slow motion video)",
+    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 24fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n2160p @ 25fps\n1080p @ 25fps",
+    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps",
+    "İkinci Arka Kamera": "Var",
+    "İkinci Arka Kamera Çözünürlüğü": "48 MP",
+    "İkinci Arka Kamera Diyafram": "F2.2",
+    "İkinci Arka Kamera Özellikleri": "0.7μm (1.4μm) Piksel\n13mm\nEkstra Geniş Açı\nEkstra Geniş Açı (120°)\nMakro (Macro) Çekim\nOtomatik Odaklama",
+    "Üçüncü Arka Kamera": "",
+    "Üçüncü Arka Kamera Çözünürlüğü": "",
+    "Üçüncü Arka Kamera Diyafram": "",
+    "Üçüncü Arka Kamera Özellikleri": "",
+    "Ön Kamera Çözünürlüğü": "18 MP",
+    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Ön Kamera FPS Değeri": "60 fps",
+    "Ön Kamera Diyafram Açıklığı": "F1.9",
+    "Ön Kamera Özellikleri": "1080p @ 120fps Kayıt\nAnimoji\nDijital görüntü sabitleyici (EIS)\nHDR\nLive Photos\nOtomatik Odaklama\nPortre Modu\nPozlama Kontrolü\nSanal Flaş\nSeri Çekim (Burst) Modu\nTime-lapse (Hyperlapse)\nTrueDepth Camera\nVideo HDR\nVideo HDR Dolby Vision\nYavaş Çekim (Slow Motion) Video Kayıt\nYüz Algılama\nZamanlayıcı (self-timer)",
+    "DxOMark Camera (v6)": "157 Puan"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+iPhone 17'nin arka kamera çözünürlüğü 48 MP'dir.
+Final LLM Süresi: 42.1086 saniye
+
+================================================================================
+TEST SÜRESİ: 71.7356 saniye
+================================================================================
+
+####################################################################################################
+TEST 9/15
+SORU: iPhone 17'nin optik görüntü sabitleyicisi var mı?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "İphone_17"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        }
+    }
+}
+Technical Data Süresi: 9.3676 saniye
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_16",
+            "review_14",
+            "review_15"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "Ürün sadece patpata sarılı geldi ama sağlamdı tesekkürler 17 gayet güzel proya gerek yok bence"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1764504736703",
+                "puan": "5"
+            },
+            {
+                "satici": "Trendyol",
+                "tarih": "1768504532945",
+                "urun": "",
+                "puan": "5"
+            },
+            {
+                "urun": "",
+                "puan": "5",
+                "tarih": "1772698721315",
+                "satici": "MediaMarkt"
+            },
+            {
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1761168654988",
+                "puan": "5"
+            },
+            {
+                "puan": "5",
+                "satici": "Trendyol",
+                "tarih": "1760642246119",
+                "urun": ""
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.33695876598358154,
+            0.3565256595611572,
+            0.3997125029563904,
+            0.40069568157196045,
+            0.4314842224121094
+        ]
+    ]
+}
+Retriever Süresi: 0.0907 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: KAMERA
+TEKNİK VERİ:
+{
+    "Kamera Çözünürlüğü": "48 MP",
+    "Optik Görüntü Sabitleyici (OIS)": "Var",
+    "Kamera Özellikleri": "1.0μm (2.0μm) Piksel\nDahili QR Kod Okuyucu\nFiziki Denklanşör Tuşu\nFocus Pixels Otomatik Odaklama\nHDR\nKırmızı Göz (Red-eye) Düzeltme\nLive Photos\nOtomatik Odaklama\nPanorama\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nSafir Kristal Objektif Kapağı\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+    "Flaş": "LED",
+    "Diyafram Açıklığı": "F1.6",
+    "Kayıpsız Yakınlaştırma": "2 x",
+    "Video Kayıt Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Video FPS Değeri": "60 fps",
+    "Video Kayıt Özellikleri": "Dijital görüntü sabitleyici (EIS)\nDolby Vision Kayıt\nHDR\nHDR (4K)\nHDR (4K) 60fps\nStereo Ses Kaydı\nSürekli Otomatik Odaklama\nTime-lapse (Hyperlapse)\nVideo Yakınlaştırma\nYavaş Çekim Video Kayıt (Slow motion video)",
+    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 24fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n2160p @ 25fps\n1080p @ 25fps",
+    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps",
+    "İkinci Arka Kamera": "Var",
+    "İkinci Arka Kamera Çözünürlüğü": "48 MP",
+    "İkinci Arka Kamera Diyafram": "F2.2",
+    "İkinci Arka Kamera Özellikleri": "0.7μm (1.4μm) Piksel\n13mm\nEkstra Geniş Açı\nEkstra Geniş Açı (120°)\nMakro (Macro) Çekim\nOtomatik Odaklama",
+    "Üçüncü Arka Kamera": "",
+    "Üçüncü Arka Kamera Çözünürlüğü": "",
+    "Üçüncü Arka Kamera Diyafram": "",
+    "Üçüncü Arka Kamera Özellikleri": "",
+    "Ön Kamera Çözünürlüğü": "18 MP",
+    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Ön Kamera FPS Değeri": "60 fps",
+    "Ön Kamera Diyafram Açıklığı": "F1.9",
+    "Ön Kamera Özellikleri": "1080p @ 120fps Kayıt\nAnimoji\nDijital görüntü sabitleyici (EIS)\nHDR\nLive Photos\nOtomatik Odaklama\nPortre Modu\nPozlama Kontrolü\nSanal Flaş\nSeri Çekim (Burst) Modu\nTime-lapse (Hyperlapse)\nTrueDepth Camera\nVideo HDR\nVideo HDR Dolby Vision\nYavaş Çekim (Slow Motion) Video Kayıt\nYüz Algılama\nZamanlayıcı (self-timer)",
+    "DxOMark Camera (v6)": "157 Puan"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+iPhone 17'nin optik görüntü sabitleyici (OIS) özelliği var. Bu özellik, kameranın görsel kalitesini ve çekilen fotoğrafların niteliğini artırarak, özellikle hareketli durumlarda ve zayıf ışıkta çekilen fotoğrafların kalitesini iyileştirmeye yardımcı olur.
+Final LLM Süresi: 35.4591 saniye
+
+================================================================================
+TEST SÜRESİ: 64.5032 saniye
+================================================================================
+
+####################################################################################################
+TEST 10/15
+SORU: Samsung FE 25'in 3x optik zoom özelliği var mı?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25"
+    ],
+    "comparison": false,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "KAMERA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "KAMERA"
+        }
+    }
+}
+Technical Data Süresi: 7.3798 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_58",
+            "review_33",
+            "review_60",
+            "review_8"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "Geç değerlendirme yapmak istedim uzun kullanım olsun diye, Amiral gemisi telefon alamıyorsanız ya da gereksiz geliyorsa tepe telefonlar, paranın alacağı en iyi telefon. İnanılmaz memnunum bu FE serisinden zaten. Trendyol'a da ayrıca teşekkürler, Akşam verdiğim sipariş ertesi gün öğlen olmadan elime ulaştı. Kamera özellikleri hızı kullanımı abilerinden farksız, yapay zeka özellikleri vs. dört dörtlük telefon. Düşünmeden alın.",
+            "guzel cihaz",
+            "Telefonu alalı 2 hafta oldu ve gayet memnunum, kamerası çok iyi özellikle makro çekimde gözle görülmeyecek küçük ayrıntıları kamerada farkediyorum, bataryasıda gayet iyi günü rahat çıkarıyor, güvenle önerebilirim telefonu"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "puan": "5",
+                "satici": "Trendyol",
+                "tarih": "1778913270834",
+                "urun": ""
+            },
+            {
+                "tarih": "1762357001718",
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "puan": "5",
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1778691958124"
+            },
+            {
+                "satici": "Trendyol",
+                "urun": "",
+                "puan": "5",
+                "tarih": "1778835448833"
+            },
+            {
+                "tarih": "1779136615709",
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "5"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.38047027587890625,
+            0.4230065941810608,
+            0.42538583278656006,
+            0.4424906373023987,
+            0.45187628269195557
+        ]
+    ]
+}
+Retriever Süresi: 0.0698 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: KAMERA
+TEKNİK VERİ:
+{
+    "Kamera Çözünürlüğü": "50 MP",
+    "Optik Görüntü Sabitleyici (OIS)": "Var",
+    "Kamera Özellikleri": "84° Açılı\nDahili QR Kod Okuyucu\nHDR\nOtomatik Odaklama\nPanorama\nPerde Hızı (Shutter Speed) Kontrolü\nPerde hızı (Shutter Speed): 30 sn\nPhase Detect Auto-Focus - PDAF (Dual Pixel)\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nRAW Kayıt Yapabilme\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+    "Flaş": "LED",
+    "Diyafram Açıklığı": "F1.8",
+    "Kayıpsız Yakınlaştırma": "2 x",
+    "Video Kayıt Çözünürlüğü": "4320p (Ultra HD) 8K",
+    "Video FPS Değeri": "30 fps",
+    "Video Kayıt Özellikleri": "10-bit HDR\nDijital görüntü sabitleyici (EIS)\nHDR\nHDR10+\nOdak Takibi\nPortre Modu (Bokeh)\nTime-lapse (Hyperlapse)\nYavaş Çekim Video Kayıt (Slow motion video)",
+    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n4320p @ 24fps\n4320p @ 30fps\n1080p @ 120fps",
+    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps\n2160p @ 120fps",
+    "İkinci Arka Kamera": "Var",
+    "İkinci Arka Kamera Çözünürlüğü": "12 MP",
+    "İkinci Arka Kamera Diyafram": "F2.2",
+    "İkinci Arka Kamera Özellikleri": "Ekstra Geniş Açı\nEkstra Geniş Açı (123°)",
+    "Üçüncü Arka Kamera": "Var",
+    "Üçüncü Arka Kamera Çözünürlüğü": "8 MP",
+    "Üçüncü Arka Kamera Diyafram": "F2.4",
+    "Üçüncü Arka Kamera Özellikleri": "30x Dijital Zoom\n32˚ Açılı\nOptik Görüntü Sabitleyici (OIS)\nOptik Zoom (3x)\nTelephoto",
+    "Ön Kamera Çözünürlüğü": "12 MP",
+    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Ön Kamera FPS Değeri": "60 fps",
+    "Ön Kamera Diyafram Açıklığı": "F2.2",
+    "Ön Kamera Özellikleri": "80° Açılı\nDijital görüntü sabitleyici (EIS)\nGesture Shot\nHDR\nPortre Modu\nSanal Flaş\nSesle Komut\nTime-lapse (Hyperlapse)\nVideo Kayıtta Portre Modu\nYapay Zeka (AI) İyileştirme\nYavaş Çekim (Slow Motion) Video Kayıt\nZamanlayıcı (self-timer)",
+    "DxOMark Camera (v6)": "118 Puan"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE'nin 3x optik zoom özelliği bulunmamaktadır. Üründeki en yakın optik zoom özelliği 2x diyafram açıklığında bulunuyor. Ancak, üçüncü arka kamera ile 32° açılı ve OIS ile desteklenen 30x dijital zoom özelliği bulunmaktadır.
+Final LLM Süresi: 34.4918 saniye
+
+================================================================================
+TEST SÜRESİ: 60.2159 saniye
+================================================================================
+
+####################################################################################################
+TEST 11/15
+SORU: iPhone 17'nin kamerası mı daha iyi Samsung FE 25'in kamerası mı?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "İphone_17",
+        "Samsung_FE_25"
+    ],
+    "comparison": true,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        },
+        "Samsung_FE_25": {
+            "topic": "KAMERA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "KAMERA"
+        },
+        "Samsung_FE_25": {
+            "topic": "KAMERA"
+        }
+    }
+}
+Technical Data Süresi: 11.3955 saniye
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_14",
+            "review_16",
+            "review_71"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "satici": "Trendyol",
+                "puan": "5",
+                "tarih": "1764504736703",
+                "urun": ""
+            },
+            {
+                "tarih": "1768504532945",
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol"
+            },
+            {
+                "puan": "5",
+                "tarih": "1761168654988",
+                "satici": "Trendyol",
+                "urun": ""
+            },
+            {
+                "satici": "MediaMarkt",
+                "puan": "5",
+                "tarih": "1772698721315",
+                "urun": ""
+            },
+            {
+                "urun": "",
+                "puan": "4",
+                "tarih": "1770704760666",
+                "satici": "Trendyol"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.2748546004295349,
+            0.29334771633148193,
+            0.32423651218414307,
+            0.3244212865829468,
+            0.3635610342025757
+        ]
+    ]
+}
+Retriever Süresi: 0.1003 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: KAMERA
+TEKNİK VERİ:
+{
+    "Kamera Çözünürlüğü": "48 MP",
+    "Optik Görüntü Sabitleyici (OIS)": "Var",
+    "Kamera Özellikleri": "1.0μm (2.0μm) Piksel\nDahili QR Kod Okuyucu\nFiziki Denklanşör Tuşu\nFocus Pixels Otomatik Odaklama\nHDR\nKırmızı Göz (Red-eye) Düzeltme\nLive Photos\nOtomatik Odaklama\nPanorama\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nSafir Kristal Objektif Kapağı\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+    "Flaş": "LED",
+    "Diyafram Açıklığı": "F1.6",
+    "Kayıpsız Yakınlaştırma": "2 x",
+    "Video Kayıt Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Video FPS Değeri": "60 fps",
+    "Video Kayıt Özellikleri": "Dijital görüntü sabitleyici (EIS)\nDolby Vision Kayıt\nHDR\nHDR (4K)\nHDR (4K) 60fps\nStereo Ses Kaydı\nSürekli Otomatik Odaklama\nTime-lapse (Hyperlapse)\nVideo Yakınlaştırma\nYavaş Çekim Video Kayıt (Slow motion video)",
+    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 24fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n2160p @ 25fps\n1080p @ 25fps",
+    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps",
+    "İkinci Arka Kamera": "Var",
+    "İkinci Arka Kamera Çözünürlüğü": "48 MP",
+    "İkinci Arka Kamera Diyafram": "F2.2",
+    "İkinci Arka Kamera Özellikleri": "0.7μm (1.4μm) Piksel\n13mm\nEkstra Geniş Açı\nEkstra Geniş Açı (120°)\nMakro (Macro) Çekim\nOtomatik Odaklama",
+    "Üçüncü Arka Kamera": "",
+    "Üçüncü Arka Kamera Çözünürlüğü": "",
+    "Üçüncü Arka Kamera Diyafram": "",
+    "Üçüncü Arka Kamera Özellikleri": "",
+    "Ön Kamera Çözünürlüğü": "18 MP",
+    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Ön Kamera FPS Değeri": "60 fps",
+    "Ön Kamera Diyafram Açıklığı": "F1.9",
+    "Ön Kamera Özellikleri": "1080p @ 120fps Kayıt\nAnimoji\nDijital görüntü sabitleyici (EIS)\nHDR\nLive Photos\nOtomatik Odaklama\nPortre Modu\nPozlama Kontrolü\nSanal Flaş\nSeri Çekim (Burst) Modu\nTime-lapse (Hyperlapse)\nTrueDepth Camera\nVideo HDR\nVideo HDR Dolby Vision\nYavaş Çekim (Slow Motion) Video Kayıt\nYüz Algılama\nZamanlayıcı (self-timer)",
+    "DxOMark Camera (v6)": "157 Puan"
+}
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_33",
+            "review_20",
+            "review_34",
+            "review_8"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "Geç değerlendirme yapmak istedim uzun kullanım olsun diye, Amiral gemisi telefon alamıyorsanız ya da gereksiz geliyorsa tepe telefonlar, paranın alacağı en iyi telefon. İnanılmaz memnunum bu FE serisinden zaten. Trendyol'a da ayrıca teşekkürler, Akşam verdiğim sipariş ertesi gün öğlen olmadan elime ulaştı. Kamera özellikleri hızı kullanımı abilerinden farksız, yapay zeka özellikleri vs. dört dörtlük telefon. Düşünmeden alın.",
+            "oncelikle saglam ve hizli kargolama icin tesekkur ediyorum. ozellikleri dusundugumden de iyi. fe serisi oldugu icin diger s seri telefonlardan daha geride ama a serisinden daha ileride bir performansinin oldugunu biliyorum ama bu fiyata alinabilecek en iyilerden biri diye dusunuyorum.",
+            "güzel telefon yeni aldım kullanınca daha net beli olacak",
+            "Telefonu alalı 2 hafta oldu ve gayet memnunum, kamerası çok iyi özellikle makro çekimde gözle görülmeyecek küçük ayrıntıları kamerada farkediyorum, bataryasıda gayet iyi günü rahat çıkarıyor, güvenle önerebilirim telefonu"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "puan": "5",
+                "tarih": "1778913270834",
+                "satici": "Trendyol",
+                "urun": ""
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1778691958124"
+            },
+            {
+                "tarih": "1778923545198",
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1775224458821",
+                "satici": "Trendyol",
+                "urun": "",
+                "puan": "5"
+            },
+            {
+                "satici": "Trendyol",
+                "tarih": "1779136615709",
+                "urun": "",
+                "puan": "5"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.28655320405960083,
+            0.3488319516181946,
+            0.3494862914085388,
+            0.3826904296875,
+            0.3832831382751465
+        ]
+    ]
+}
+Retriever Süresi: 0.0742 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: KAMERA
+TEKNİK VERİ:
+{
+    "Kamera Çözünürlüğü": "50 MP",
+    "Optik Görüntü Sabitleyici (OIS)": "Var",
+    "Kamera Özellikleri": "84° Açılı\nDahili QR Kod Okuyucu\nHDR\nOtomatik Odaklama\nPanorama\nPerde Hızı (Shutter Speed) Kontrolü\nPerde hızı (Shutter Speed): 30 sn\nPhase Detect Auto-Focus - PDAF (Dual Pixel)\nPhase Detect Auto-Focus (PDAF)\nPortre Modu (Bokeh)\nRAW Kayıt Yapabilme\nSeri Çekim (Burst) Modu\nSesli komut\nYapay Zeka (AI) Sahne Algılama\nZamanlayıcı",
+    "Flaş": "LED",
+    "Diyafram Açıklığı": "F1.8",
+    "Kayıpsız Yakınlaştırma": "2 x",
+    "Video Kayıt Çözünürlüğü": "4320p (Ultra HD) 8K",
+    "Video FPS Değeri": "30 fps",
+    "Video Kayıt Özellikleri": "10-bit HDR\nDijital görüntü sabitleyici (EIS)\nHDR\nHDR10+\nOdak Takibi\nPortre Modu (Bokeh)\nTime-lapse (Hyperlapse)\nYavaş Çekim Video Kayıt (Slow motion video)",
+    "Video Kayıt Seçenekleri": "1080p @ 30fps\n2160p @ 30fps\n720p @ 30fps\n1080p @ 60fps\n2160p @ 60fps\n4320p @ 24fps\n4320p @ 30fps\n1080p @ 120fps",
+    "Ağır Çekim Kayıt Seçenekleri": "1080p @ 120fps\n1080p @ 240fps\n2160p @ 120fps",
+    "İkinci Arka Kamera": "Var",
+    "İkinci Arka Kamera Çözünürlüğü": "12 MP",
+    "İkinci Arka Kamera Diyafram": "F2.2",
+    "İkinci Arka Kamera Özellikleri": "Ekstra Geniş Açı\nEkstra Geniş Açı (123°)",
+    "Üçüncü Arka Kamera": "Var",
+    "Üçüncü Arka Kamera Çözünürlüğü": "8 MP",
+    "Üçüncü Arka Kamera Diyafram": "F2.4",
+    "Üçüncü Arka Kamera Özellikleri": "30x Dijital Zoom\n32˚ Açılı\nOptik Görüntü Sabitleyici (OIS)\nOptik Zoom (3x)\nTelephoto",
+    "Ön Kamera Çözünürlüğü": "12 MP",
+    "Ön Kamera Video Çözünürlüğü": "2160p (Ultra HD) 4K",
+    "Ön Kamera FPS Değeri": "60 fps",
+    "Ön Kamera Diyafram Açıklığı": "F2.2",
+    "Ön Kamera Özellikleri": "80° Açılı\nDijital görüntü sabitleyici (EIS)\nGesture Shot\nHDR\nPortre Modu\nSanal Flaş\nSesle Komut\nTime-lapse (Hyperlapse)\nVideo Kayıtta Portre Modu\nYapay Zeka (AI) İyileştirme\nYavaş Çekim (Slow Motion) Video Kayıt\nZamanlayıcı (self-timer)",
+    "DxOMark Camera (v6)": "118 Puan"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+iPhone 17'in ve Samsung Galaxy S25 FE'nin kameraları konusunda karşılaştıralım:
+
+iPhone 17:
+- 48 MP arka kamera
+- 1.0μm (2.0μm) piksel
+- F1.6 diyafram
+- 2 x kayıpsız yakınlaştırma
+- 2160p (Ultra HD) 4K video kaydı
+- DxOMark puanı: 157
+
+Samsung Galaxy S25 FE:
+- 50 MP arka kamera
+- 84° açılı
+- F1.8 diyafram
+- 2 x kayıpsız yakınlaştırma
+- 4320p (Ultra HD) 8K video kaydı
+- DxOMark puanı: 118
+
+Genel olarak, Samsung Galaxy S25 FE'nin kamera çözünürlüğü ve video kaydı özellikleri daha iyi. Ancak, DxOMark puanı açısından iPhone 17 daha üst seviyede. Her iki telefon da kamera özellikleri ile memnuniyet veriyor, ancak Samsung Galaxy S25 FE'nin daha yüksek çözünürlük ve 8K video kaydı özellikleri sayesinde biraz daha iyi bir kameralık sunuyor.
+Final LLM Süresi: 92.6629 saniye
+
+================================================================================
+TEST SÜRESİ: 124.1662 saniye
+================================================================================
+
+####################################################################################################
+TEST 12/15
+SORU: Samsung FE 25 mi iPhone 17 mi daha uzun pil ömrü sunuyor?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25",
+        "İphone_17"
+    ],
+    "comparison": true,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "BATARYA"
+        },
+        "İphone_17": {
+            "topic": "BATARYA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "BATARYA"
+        },
+        "İphone_17": {
+            "topic": "BATARYA"
+        }
+    }
+}
+Technical Data Süresi: 13.0807 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_47",
+            "review_20",
+            "review_63",
+            "review_33"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "Trendyol'dan aldığım ikinci telefon. İnternetten telefon alırken güven sorunlarım vardır. Trendyol bunu yıktı. Artık tüm telefonlarımı buradan alabilirim. Gayet güzel paketlenmiş şekilde ulaştı. Fiyatı da diğer satıcılara göre epeyce uygundu. Bir de bana kupon tanımladılar. Her iki telefonu da güzel indirimler ile aldım. Telefona gelirsek; açıkçası s25+ ile aralarında uçurum var ilkin bunu söylemekte fayda var. Gerek kamerası, gerek işlemcisi s25+'lık farkedilir şekilde altında kalıyor. Onu dışındaki özellikleri de hemen hemen 25+ ile benzer özellikler taşıyor. Uygun fiyata alınıp senelerce kullanılabilecek bir telefon diye düşünüyorum. Bu arada 45watt ile şarj ederseniz şartı ortalama bir kullanımda 2,5 gün rahat gidiyor bunu söylemeden de olmazdı. Yalnız muhakkak 45watt bir şarj aleti ve uyumlu bir kablo kullanılması gerekiyor. Eskiden telefonunu her gün şarj eden biri olarak yalnızca bu yenilik bile ödediğim paraya kesinlikle değiyor.",
+            "oncelikle saglam ve hizli kargolama icin tesekkur ediyorum. ozellikleri dusundugumden de iyi. fe serisi oldugu icin diger s seri telefonlardan daha geride ama a serisinden daha ileride bir performansinin oldugunu biliyorum ama bu fiyata alinabilecek en iyilerden biri diye dusunuyorum.",
+            "yani s25 fe işte yedek telefon olarak aldım evde duracak kargo hızlı geldi pazartesi kargolandı salı geldi kargocu kapıya bırakmasa daha iyi olabilirdi çalınma riskine karşı ben s26 ultra kullanıyorum fe serisi güzel cihazlar s26fe çıkarsa onuda alacağım eylül ayında vs çıkar herhalde",
+            "Geç değerlendirme yapmak istedim uzun kullanım olsun diye, Amiral gemisi telefon alamıyorsanız ya da gereksiz geliyorsa tepe telefonlar, paranın alacağı en iyi telefon. İnanılmaz memnunum bu FE serisinden zaten. Trendyol'a da ayrıca teşekkürler, Akşam verdiğim sipariş ertesi gün öğlen olmadan elime ulaştı. Kamera özellikleri hızı kullanımı abilerinden farksız, yapay zeka özellikleri vs. dört dörtlük telefon. Düşünmeden alın."
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol",
+                "tarih": "1778913270834"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1777568078485"
+            },
+            {
+                "satici": "Trendyol",
+                "tarih": "1778923545198",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "urun": "",
+                "tarih": "1782215637835",
+                "satici": "Trendyol",
+                "puan": "5"
+            },
+            {
+                "puan": "5",
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1778691958124"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.3675973415374756,
+            0.3771008253097534,
+            0.3784010410308838,
+            0.3962531089782715,
+            0.3966101408004761
+        ]
+    ]
+}
+Retriever Süresi: 0.0728 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: BATARYA
+TEKNİK VERİ:
+{
+    "Batarya Kapasitesi (Tipik)": "4900 mAh",
+    "Video Oynatma": "28 Saat",
+    "Şarj": "USB Type-C",
+    "Batarya Teknolojisi": "Lithium Ion (Li-Ion)",
+    "Hızlı Şarj": "Var",
+    "Hızlı Şarj Gücü (Maks.)": "45 W",
+    "Hızlı Şarj Özellikleri": "Hızlı Şarj (45W)",
+    "Kablosuz Şarj": "Var",
+    "Kablosuz Şarj Özellikleri": "Kablosuz Hızlı Şarj\nKablosuz Hızlı Şarj (15W)",
+    "Değişir Batarya": "Yok",
+    "Batarya Özellikleri": "30 Dakikada %65 Dolum"
+}
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_14",
+            "review_16",
+            "review_71"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "urun": "",
+                "puan": "5",
+                "tarih": "1764504736703",
+                "satici": "Trendyol"
+            },
+            {
+                "puan": "5",
+                "tarih": "1768504532945",
+                "satici": "Trendyol",
+                "urun": ""
+            },
+            {
+                "satici": "Trendyol",
+                "tarih": "1761168654988",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "tarih": "1772698721315",
+                "urun": "",
+                "satici": "MediaMarkt",
+                "puan": "5"
+            },
+            {
+                "tarih": "1770704760666",
+                "satici": "Trendyol",
+                "puan": "4",
+                "urun": ""
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.3254983425140381,
+            0.35424935817718506,
+            0.3547857999801636,
+            0.3764914274215698,
+            0.3839588165283203
+        ]
+    ]
+}
+Retriever Süresi: 0.0625 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: BATARYA
+TEKNİK VERİ:
+{
+    "Batarya Kapasitesi (Tipik)": "3692 mAh",
+    "Video Oynatma": "27 Saat",
+    "Şarj": "USB Type-C",
+    "Batarya Teknolojisi": "Lithium Ion (Li-Ion)",
+    "Hızlı Şarj": "Var",
+    "Hızlı Şarj Gücü (Maks.)": "40 W",
+    "Hızlı Şarj Özellikleri": "Hızlı Şarj (40W)",
+    "Kablosuz Şarj": "Var",
+    "Kablosuz Şarj Özellikleri": "Kablosuz Hızlı Şarj\nMagSafe ile Kablosuz Hızlı Şarj (30W)",
+    "Değişir Batarya": "Yok",
+    "Batarya Özellikleri": "20 Dakikada %50 Dolum"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE ve iPhone 17'de pil ömrü konusunda:
+
+Samsung Galaxy S25 FE, 4900 mAh kapasiteli bir pil ile gelir ve 28 saat video oynatma süresine sahiptir. Hızlı şarj özelliği 45W ile 30 dakikada %65 dolum sağlar.
+
+iPhone 17, 3692 mAh kapasiteli bir pil ile gelir ve 27 saat video oynatma süresine sahiptir. Hızlı şarj özelliği 40W ile 20 dakikada %50 dolum sağlar.
+
+Genel olarak, Samsung Galaxy S25 FE'nin daha büyük bir pil kapasitesi ve daha uzun video oynatma süresi ile pil ömrü konusunda avantajlı görünmektedir. Ancak, iPhone 17'in 40W hızlı şarj özelliği, Samsung Galaxy S25 FE'nin 45W hızlı şarj özelliği ile karşılaştırıldığında bir avantaj sunmaktadır. Her iki telefon da hızlı şarj özellikleri ile kullanıcılara daha fazla uygunluk sunmaktadır.
+Final LLM Süresi: 85.4523 saniye
+
+================================================================================
+TEST SÜRESİ: 120.2121 saniye
+================================================================================
+
+####################################################################################################
+TEST 13/15
+SORU: iPhone 17 mi Samsung FE 25 mi daha iyi ekrana sahip?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "İphone_17",
+        "Samsung_FE_25"
+    ],
+    "comparison": true,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "EKRAN"
+        },
+        "Samsung_FE_25": {
+            "topic": "EKRAN"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "EKRAN"
+        },
+        "Samsung_FE_25": {
+            "topic": "EKRAN"
+        }
+    }
+}
+Technical Data Süresi: 11.0946 saniye
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_16",
+            "review_14",
+            "review_71"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1764504736703",
+                "puan": "5"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "tarih": "1768504532945",
+                "satici": "Trendyol"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "tarih": "1772698721315",
+                "satici": "MediaMarkt"
+            },
+            {
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1761168654988",
+                "puan": "5"
+            },
+            {
+                "puan": "4",
+                "tarih": "1770704760666",
+                "satici": "Trendyol",
+                "urun": ""
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.2624812722206116,
+            0.29473376274108887,
+            0.3248249292373657,
+            0.3356456756591797,
+            0.3624942898750305
+        ]
+    ]
+}
+Retriever Süresi: 0.0696 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: EKRAN
+TEKNİK VERİ:
+{
+    "Ekran Boyutu": "6.3 İnç",
+    "Ekran Teknolojisi": "OLED",
+    "Ekran Çözünürlüğü": "1206x2622 (FHD+) Piksel",
+    "Ekran Çözünürlüğü Standardı": "FHD+",
+    "Piksel Yoğunluğu": "460 PPI",
+    "Ekran Yenileme Hızı": "120 Hz",
+    "Ekran Oranı (Aspect Ratio)": "19.5:9",
+    "Ekran Alanı": "96.31 cm²",
+    "Ekran Özellikleri": "1000 cd/m² (nit) Parlaklık\n1600 cd/m² (nit) Parlaklık (HDR)\n2.000.000:1 Kontrast Oranı (Tipik)\n3000 cd/m² (nit) Parlaklık (Maks.)\nÇerçevesiz Tasarım\nÇizilmeye Dirençli Cam\nDCI-P3 Renk Uzayı\nDolby Vision\nEkran İçinde Ön Kamera\nHDR\nHDR10\nHLG\nLow-Temperature Polycrystalline Oxide (LTPO)\nMulti Touch\nOleophobic Coating\nSuper Retina XDR Display\nSürekli Açık Ekran (Always-on Display)\nTrue Tone Ekran",
+    "Ekran Dayanıklılığı": "Corning Ceramic Shield Glass (Gen2)",
+    "Renk Sayısı": "16 Milyon",
+    "Ekran / Gövde Oranı": "90.04 %"
+}
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_20",
+            "review_34",
+            "review_63",
+            "review_58"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "oncelikle saglam ve hizli kargolama icin tesekkur ediyorum. ozellikleri dusundugumden de iyi. fe serisi oldugu icin diger s seri telefonlardan daha geride ama a serisinden daha ileride bir performansinin oldugunu biliyorum ama bu fiyata alinabilecek en iyilerden biri diye dusunuyorum.",
+            "güzel telefon yeni aldım kullanınca daha net beli olacak",
+            "yani s25 fe işte yedek telefon olarak aldım evde duracak kargo hızlı geldi pazartesi kargolandı salı geldi kargocu kapıya bırakmasa daha iyi olabilirdi çalınma riskine karşı ben s26 ultra kullanıyorum fe serisi güzel cihazlar s26fe çıkarsa onuda alacağım eylül ayında vs çıkar herhalde",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "tarih": "1778913270834",
+                "puan": "5",
+                "satici": "Trendyol",
+                "urun": ""
+            },
+            {
+                "puan": "5",
+                "satici": "Trendyol",
+                "tarih": "1778923545198",
+                "urun": ""
+            },
+            {
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1775224458821",
+                "puan": "5"
+            },
+            {
+                "tarih": "1782215637835",
+                "satici": "Trendyol",
+                "urun": "",
+                "puan": "5"
+            },
+            {
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "5",
+                "tarih": "1762357001718"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.29175257682800293,
+            0.3309272527694702,
+            0.34450244903564453,
+            0.3573184609413147,
+            0.3583067059516907
+        ]
+    ]
+}
+Retriever Süresi: 0.0599 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: EKRAN
+TEKNİK VERİ:
+{
+    "Ekran Boyutu": "6.7 İnç",
+    "Ekran Teknolojisi": "Dynamic AMOLED",
+    "Ekran Çözünürlüğü": "1080x2340 (FHD+) Piksel",
+    "Ekran Çözünürlüğü Standardı": "FHD+",
+    "Piksel Yoğunluğu": "385 PPI",
+    "Ekran Yenileme Hızı": "120 Hz",
+    "Ekran Oranı (Aspect Ratio)": "19.5:9",
+    "Ekran Alanı": "109.94 cm²",
+    "Ekran Özellikleri": "1900 cd/m² (nit) Parlaklık (Maks.)\nÇerçevesiz Tasarım\nÇizilmeye Dirençli Cam\nDynamic AMOLED 2X\nEkran İçinde Ön Kamera\nHDR\nHDR10\nHDR10+\nMulti Touch\nSürekli Açık Ekran (Always-on Display)",
+    "Ekran Dayanıklılığı": "Corning Gorilla Glass Victus+",
+    "Renk Sayısı": "16 Milyon",
+    "Ekran / Gövde Oranı": "88.98 %"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+iPhone 17 ve Samsung Galaxy S25 FE'nin ekranları konusunda karşılaştırarak, iPhone 17'in ekranı özellikle güneş ışığı altında 3000 nit'in hakkını vererek mükemmel bir parlaklık sunuyor. Ekranın 120 Hz yenileme hızı, hızlı ve akıcı görüntü sunmayı sağlıyor. Ekranın %90.04 oranında gövdeye kapladığı, çerçevesiz tasarım da ekranın geniş ve açınlığını artırıyor.
+
+Samsung Galaxy S25 FE'nin ekranı 1900 cd/m² maksimum parlaklık sunarak de oldukça parlak. Ekranın %88.98 oranında gövdeye kapladığı, çerçevesiz tasarım da ekranın geniş ve açınlığını artırıyor. Ekranın 120 Hz yenileme hızı, hızlı ve akıcı görüntü sunmayı sağlıyor.
+
+Her iki telefonun da 120 Hz yenileme hızı ve 16 milyon renk desteği var. Ancak iPhone 17'in ekranı, özellikle güneş ışığı altında daha parlak ve parlaklık seviyeleri daha yüksek. Ekranın %90.04 oranında gövdeye kapladığı, Samsung Galaxy S25 FE'nin %88.98 oranında gövdeye kapladığı ekran oranları da iPhone 17'in ekranının daha geniş ve açınlığını artırıyor.
+
+Sonuç olarak, iPhone 17'in ekranı, özellikle güneş ışığı altında daha parlak ve parlaklık seviyeleri daha yüksek olduğu için daha iyi bir ekran sunuyor. Ancak Samsung Galaxy S25 FE'nin ekranı da oldukça parlak ve geniş bir ekran sunuyor.
+Final LLM Süresi: 115.4498 saniye
+
+================================================================================
+TEST SÜRESİ: 147.1017 saniye
+================================================================================
+
+####################################################################################################
+TEST 14/15
+SORU: Samsung FE 25 mi iPhone 17 mi daha iyi performans sunuyor?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "Samsung_FE_25",
+        "İphone_17"
+    ],
+    "comparison": true,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "BATARYA"
+        },
+        "İphone_17": {
+            "topic": "BATARYA"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "Samsung_FE_25": {
+            "topic": "BATARYA"
+        },
+        "İphone_17": {
+            "topic": "BATARYA"
+        }
+    }
+}
+Technical Data Süresi: 11.6648 saniye
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_20",
+            "review_58",
+            "review_33",
+            "review_63"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "oncelikle saglam ve hizli kargolama icin tesekkur ediyorum. ozellikleri dusundugumden de iyi. fe serisi oldugu icin diger s seri telefonlardan daha geride ama a serisinden daha ileride bir performansinin oldugunu biliyorum ama bu fiyata alinabilecek en iyilerden biri diye dusunuyorum.",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "Geç değerlendirme yapmak istedim uzun kullanım olsun diye, Amiral gemisi telefon alamıyorsanız ya da gereksiz geliyorsa tepe telefonlar, paranın alacağı en iyi telefon. İnanılmaz memnunum bu FE serisinden zaten. Trendyol'a da ayrıca teşekkürler, Akşam verdiğim sipariş ertesi gün öğlen olmadan elime ulaştı. Kamera özellikleri hızı kullanımı abilerinden farksız, yapay zeka özellikleri vs. dört dörtlük telefon. Düşünmeden alın.",
+            "yani s25 fe işte yedek telefon olarak aldım evde duracak kargo hızlı geldi pazartesi kargolandı salı geldi kargocu kapıya bırakmasa daha iyi olabilirdi çalınma riskine karşı ben s26 ultra kullanıyorum fe serisi güzel cihazlar s26fe çıkarsa onuda alacağım eylül ayında vs çıkar herhalde"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "urun": "",
+                "tarih": "1778913270834",
+                "puan": "5",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1778923545198",
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "5"
+            },
+            {
+                "puan": "5",
+                "tarih": "1762357001718",
+                "urun": "",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1778691958124",
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": ""
+            },
+            {
+                "urun": "",
+                "tarih": "1782215637835",
+                "satici": "Trendyol",
+                "puan": "5"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.29221951961517334,
+            0.30356210470199585,
+            0.3375108242034912,
+            0.35134822130203247,
+            0.36272603273391724
+        ]
+    ]
+}
+Retriever Süresi: 0.1756 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: BATARYA
+TEKNİK VERİ:
+{
+    "Batarya Kapasitesi (Tipik)": "4900 mAh",
+    "Video Oynatma": "28 Saat",
+    "Şarj": "USB Type-C",
+    "Batarya Teknolojisi": "Lithium Ion (Li-Ion)",
+    "Hızlı Şarj": "Var",
+    "Hızlı Şarj Gücü (Maks.)": "45 W",
+    "Hızlı Şarj Özellikleri": "Hızlı Şarj (45W)",
+    "Kablosuz Şarj": "Var",
+    "Kablosuz Şarj Özellikleri": "Kablosuz Hızlı Şarj\nKablosuz Hızlı Şarj (15W)",
+    "Değişir Batarya": "Yok",
+    "Batarya Özellikleri": "30 Dakikada %65 Dolum"
+}
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_16",
+            "review_14",
+            "review_71"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken .",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "puan": "5",
+                "satici": "Trendyol",
+                "urun": "",
+                "tarih": "1764504736703"
+            },
+            {
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": "",
+                "tarih": "1768504532945"
+            },
+            {
+                "satici": "MediaMarkt",
+                "puan": "5",
+                "urun": "",
+                "tarih": "1772698721315"
+            },
+            {
+                "tarih": "1761168654988",
+                "satici": "Trendyol",
+                "urun": "",
+                "puan": "5"
+            },
+            {
+                "puan": "4",
+                "satici": "Trendyol",
+                "tarih": "1770704760666",
+                "urun": ""
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.26941239833831787,
+            0.3060704469680786,
+            0.3297785520553589,
+            0.3301042318344116,
+            0.3446800708770752
+        ]
+    ]
+}
+Retriever Süresi: 0.0577 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: BATARYA
+TEKNİK VERİ:
+{
+    "Batarya Kapasitesi (Tipik)": "3692 mAh",
+    "Video Oynatma": "27 Saat",
+    "Şarj": "USB Type-C",
+    "Batarya Teknolojisi": "Lithium Ion (Li-Ion)",
+    "Hızlı Şarj": "Var",
+    "Hızlı Şarj Gücü (Maks.)": "40 W",
+    "Hızlı Şarj Özellikleri": "Hızlı Şarj (40W)",
+    "Kablosuz Şarj": "Var",
+    "Kablosuz Şarj Özellikleri": "Kablosuz Hızlı Şarj\nMagSafe ile Kablosuz Hızlı Şarj (30W)",
+    "Değişir Batarya": "Yok",
+    "Batarya Özellikleri": "20 Dakikada %50 Dolum"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+Samsung Galaxy S25 FE ve iPhone 17 arasındaki performans karşılaştırması:
+
+Samsung Galaxy S25 FE, daha büyük bir batarya kapasitesi (4900 mAh) ve daha uzun video oynatma süresi (28 saat) sunar. Hızlı şarj özelliği (45 W) ile hızlı şarj süresi vardır. Kablosuz şarj özelliği de mevcut.
+
+iPhone 17, daha düşük bir batarya kapasitesi (3692 mAh) ve video oynatma süresi (27 saat) ile biraz daha az kapasitedir. Hızlı şarj özelliği (40 W) ile de hızlı şarj sağlar ve MagSafe ile kablosuz şarj yapabilir.
+
+Kullanıcı yorumlarına göre, S25 FE, özellikle kamera performansı ve yapay zeka özellikleri konusunda olumlu yorumlar alıyor. Fiyat-performans dengesine de olumlu bir bakış açısı sunuyor.
+
+iPhone 17, rengi ve estetik tasarımına, özellikle kamera performansına ve genel kullanıma olumlu yorumlar alıyor. Fiyat-performans dengesine de olumlu bir bakış açısı sunuyor.
+
+Sonuç olarak, S25 FE daha büyük batarya kapasitesi ve daha düşük fiyat sunar. iPhone 17 ise daha iyi kamera performansı ve estetik tasarımla övülüyor. Her iki telefon da iyi performans sunuyor, ancak tercih edilecek ürün, kullanıcının ihtiyaçlarına ve bütçesine bağlı olacaktır.
+Final LLM Süresi: 121.5461 saniye
+
+================================================================================
+TEST SÜRESİ: 153.0965 saniye
+================================================================================
+
+####################################################################################################
+TEST 15/15
+SORU: iPhone 17 ile Samsung FE 25 arasında hangisinin tasarımı daha iyi?
+####################################################################################################
+
+================================================================================
+[1] QUERY ANALYZER
+================================================================================
+
+DÖNEN VERİ:
+{
+    "valid": true,
+    "products": [
+        "İphone_17",
+        "Samsung_FE_25"
+    ],
+    "comparison": true,
+    "needs_product": false
+}
+
+================================================================================
+[2] TECHNICAL DATA
+================================================================================
+
+================================================================================
+GEMMA HAM CEVABI
+================================================================================
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "TASARIM"
+        },
+        "Samsung_FE_25": {
+            "topic": "TASARIM"
+        }
+    }
+}
+
+DÖNEN VERİ:
+{
+    "topics": {
+        "İphone_17": {
+            "topic": "TASARIM"
+        },
+        "Samsung_FE_25": {
+            "topic": "TASARIM"
+        }
+    }
+}
+Technical Data Süresi: 10.8036 saniye
+
+================================================================================
+[3] IPHONE 17 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_20",
+            "review_48",
+            "review_71",
+            "review_16",
+            "review_14"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Rengi görsellerde göründüğünden daha da güzel. Arka kısmın mat bir dokusu var, dokunma hissi hoş. Lensler de göründüğünden daha büyük. Tuşların basma hissi iyi, kaliteli, fonksiyonel... Ekran , özellikle de güneş ışığı altında, mükemmel bir parlaklık sunuyor, 3000 nit'in hakkını veriyor yani... Genel olarak basic model olmasına rağmen aşırı premium bir cihaz Apple bu sene Pro ve Pro Max e verdiği özeni düz modele de vermiş öyle ki iPhone 17 ile iPhone 17 Pro arasında birkaç özellik farkı var sadece ve eğer ki profesyonel işler için kullanmıyor iseniz bütçeyi zorlayıp Pro almaya gerek yok. Zira ekrandan kameraya malzeme kalitesine kadar aynı diyebiliriz. Dediğim gibi ilk defa bir iPhone ailesinde basic model Pro'lar ile aşık atar hâlde tasarlanmış. Oldukça uzun zaman sonra ( iPhone 4 :) ) İOS e dönen biri olarak diyebilirim ki parasına değer...",
+            "Kargo güzel paketlenmişti. Telefon kutusu poşete sarılmış ufak bi koli içinde geldi. İphone 11’den geçtim kullanım kamera işlemci herşey harika. 16 alacaktım 120hz ekran olduğu için 17 aldım. 17 pro modeline boşuna yüksek para vermeyin. Cihaz her yönüyle harika.",
+            "7 den bu telefona geçtim bariz iyi olan hız dışında pek bi espirisi yok ya influencer falan değilseniz 15in yeşilini alın daha iyi keşke öyle yapsaydım :( kötü değil ama gerek de yok yani bu kadarına…",
+            "Elimize hızlı ve sağlam bir şekilde ulaştı. Paketleme fena değildi. Yeni iphonelar arasındaki en mantıklı cihaz olabilir. Profesyonel amaçla kullanılmıyorsa; 4x-8x optik zoom ihtiyacı yoksa, pro res/raw çekime ihtiyaç yoksa, pro almanın hiçbir mantığı kalmıyor. Baz modeli ilk kez bu kadar dolu dolu görüyorum. İşlemcisi çok güçlü, pili bir tam günü rahat çıkarıyor. Ekran pro ile birebir, ön kamera birebir, hele ki pro modellerin de alüminyum malzemeye geçtiğini göz önünde bulundurunca, pro ile arasındaki premium hissettiren fark bile kalmamış. Arada bu kadar fiyat farkı varken alınacak en mantıklı iphone olmuş bence. Alan herkesi bizim kadar memnun etmesi dileğiyle 👋🏻",
+            "Telefonu çok istiyordum paketleme güzeldi patpata sarılıydı sadece şarja taktığımda ısınma sorunu var tam anlamıyla çözülmemiş .Sarjı günü kurtarıyor hücresel veri kullandığınız da çok yiyor ama wifi de o  kadar çok yemiyor .Kamerası aşırı iyi ve boyutu 6.3 ideal olmuş bence .Pro modeli bana kaba geliyordu 17 yeterli olur çokta fark yok aralarında .Kamera görüntülü konuşmalarda tek kişi konuşurken yandan biri girdiğinde genişliyor bunu çok sevdim . Sadece kamerayı kullanırken bazen kayıyor onu anlamıyorum sanırım netleşmeye açılırken öyle yapıyor ya da bir ayarı açık ben bulamıyorum dndndndnnd.Her neyse telefon alınır 😂 güncelleme :her görüntülü konuşmada ilk açıldığında kapanıyor sonradan tekrar aramak  zorunda kalıyorum ve bu durum aşırı sinir bozuyor bir de klavyede ses bir çıkıyor bi çıkmıyor. Şu güncelleme yorumunu yaparken bile 3 4 kere klavye sesi kesildi şaka gibi ortada arama falan yokken ."
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "puan": "5",
+                "urun": "",
+                "satici": "Trendyol",
+                "tarih": "1764504736703"
+            },
+            {
+                "tarih": "1768504532945",
+                "urun": "",
+                "satici": "Trendyol",
+                "puan": "5"
+            },
+            {
+                "satici": "Trendyol",
+                "puan": "4",
+                "urun": "",
+                "tarih": "1770704760666"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "tarih": "1772698721315",
+                "satici": "MediaMarkt"
+            },
+            {
+                "satici": "Trendyol",
+                "puan": "5",
+                "urun": "",
+                "tarih": "1761168654988"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.3183882236480713,
+            0.3608509302139282,
+            0.3857852816581726,
+            0.3870878219604492,
+            0.3950018286705017
+        ]
+    ]
+}
+Retriever Süresi: 0.0694 saniye
+
+IPHONE 17 - TEKNİK VERİ
+SEÇİLEN TOPIC: TASARIM
+TEKNİK VERİ:
+{
+    "Boy": "149.6 mm",
+    "En": "71.5 mm",
+    "Kalınlık": "7.95 mm",
+    "Ağırlık": "177 Gram",
+    "Renk Seçenekleri": "Beyaz\nMavi\nMor\nSiyah\nYeşil",
+    "Gövde Malzemesi (Kapak)": "Cam",
+    "Gövde Malzemesi (Çerçeve)": "Alüminyum"
+}
+
+================================================================================
+[3] SAMSUNG FE 25 - RETRIEVER TOP 5
+================================================================================
+
+DÖNEN VERİ:
+{
+    "ids": [
+        [
+            "review_10",
+            "review_20",
+            "review_58",
+            "review_33",
+            "review_34"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "S25 FE gerçekten bu fiyata alınabilecek en iyi cihaz .. Batarya Yazılım Ekran ve Kamera Konusunda Müthiş.. Samsung Kalitesi tartışılmaz...",
+            "oncelikle saglam ve hizli kargolama icin tesekkur ediyorum. ozellikleri dusundugumden de iyi. fe serisi oldugu icin diger s seri telefonlardan daha geride ama a serisinden daha ileride bir performansinin oldugunu biliyorum ama bu fiyata alinabilecek en iyilerden biri diye dusunuyorum.",
+            "S24 FE den geçtim baya fark var eline aldığında hafif hissettiriyor gerçekten",
+            "Geç değerlendirme yapmak istedim uzun kullanım olsun diye, Amiral gemisi telefon alamıyorsanız ya da gereksiz geliyorsa tepe telefonlar, paranın alacağı en iyi telefon. İnanılmaz memnunum bu FE serisinden zaten. Trendyol'a da ayrıca teşekkürler, Akşam verdiğim sipariş ertesi gün öğlen olmadan elime ulaştı. Kamera özellikleri hızı kullanımı abilerinden farksız, yapay zeka özellikleri vs. dört dörtlük telefon. Düşünmeden alın.",
+            "güzel telefon yeni aldım kullanınca daha net beli olacak"
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "documents",
+        "distances",
+        "metadatas"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "urun": "",
+                "tarih": "1778913270834",
+                "puan": "5",
+                "satici": "Trendyol"
+            },
+            {
+                "puan": "5",
+                "urun": "",
+                "tarih": "1778923545198",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1762357001718",
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol"
+            },
+            {
+                "tarih": "1778691958124",
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol"
+            },
+            {
+                "urun": "",
+                "puan": "5",
+                "satici": "Trendyol",
+                "tarih": "1775224458821"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.35131919384002686,
+            0.36225664615631104,
+            0.3830867409706116,
+            0.40028321743011475,
+            0.40728771686553955
+        ]
+    ]
+}
+Retriever Süresi: 0.0549 saniye
+
+SAMSUNG FE 25 - TEKNİK VERİ
+SEÇİLEN TOPIC: TASARIM
+TEKNİK VERİ:
+{
+    "Boy": "161.3 mm",
+    "En": "76.6 mm",
+    "Kalınlık": "7.4 mm",
+    "Ağırlık": "190 Gram",
+    "Renk Seçenekleri": "Beyaz\nLacivert\nMavi\nSiyah",
+    "Gövde Malzemesi (Kapak)": "Cam",
+    "Gövde Malzemesi (Çerçeve)": "Alüminyum"
+}
+
+================================================================================
+[5] FINAL LLM
+================================================================================
+CEVAP:
+iPhone 17 ile Samsung Galaxy S25 FE arasında tasarım konusunda, her iki telefon da cam kapak ve alüminyum çerçeve kullanarak premium bir his sunar. Ancak kullanıcı yorumlarına göre, iPhone 17'in tasarımının daha detaylı ve premium bir his suntuğu vardır. Özellikle rengi ve mat dokusu, lenslerin büyüklüğü ve genel dokunma hissi konusunda olumlu yorumlar bulunmaktadır.
+
+Diğer yandan, Samsung Galaxy S25 FE'nin tasarımının da iyi bir şekilde değerlendirildiği görülmektedir. Özellikle renk seçenekleri ve genel tasarım konusunda olumlu yorumlar bulunmaktadır.
+
+Sonuç olarak, iPhone 17'in tasarımının daha detaylı ve premium bir his suntuğu vardır, ancak Samsung Galaxy S25 FE'nin tasarımının da iyi bir şekilde değerlendirildiği gözlemlenmiştir.
+Final LLM Süresi: 62.5430 saniye
+
+================================================================================
+TEST SÜRESİ: 91.9092 saniye
+================================================================================
+
+####################################################################################################
+TÜM TESTLER TAMAMLANDI
+TOPLAM SÜRE: 1490.6100 saniye
+####################################################################################################
