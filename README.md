@@ -1,0 +1,2 @@
+# AI-Review-Analyzer
+AI Review Analyzer, kullanıcıların ürün satın almadan önce yorumları daha kolay anlamasını sağlayan yapay zeka destekli bir analiz sistemidir. Proje; ürün yorumlarını özetler, olumlu/olumsuz görüşleri belirli başlıklar altında toplar, teknik özellikleri değerlendirir ve farklı ürünleri karşılaştırma imkanı sunar. RAG ve tek-context yaklaşımlarıyla geliştirilmiş sürümler üzerinden model performansları da karşılaştırılmıştır.
